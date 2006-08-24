@@ -88,5 +88,20 @@
 		"name": "Kellan Elliott-McCrea",
 		"icon": "http://static.flickr.com/54/buddyicons/51035734193@N01.jpg",
 		"id": "51035734193@N01"
+	},
+	{
+		"name": "Manny Ventura",
+		"icon": "http://static.flickr.com/70/buddyicons/11988005@N00.jpg",
+		"id": "11988005@N00"
+	},
+	{
+		"name": "Matthew Rothenberg",
+		"icon": "http://static.flickr.com/11/buddyicons/91842418@N00.jpg",
+		"id": "91842418@N00"
+	},
+	{
+		"name": "Ben Jenkins",
+		"icon": "http://static.flickr.com/1/buddyicons/64684853@N00.jpg",
+		"id": "64684853@N00"
 	}
 ]
