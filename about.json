@@ -51,7 +51,7 @@
 	},
 	{
 		"name": "Kakul Srivastava",
-		"icon": "http://static.flickr.com/10/buddyicons/40732558184@N01.jpg",
+		"icon": "http://static.flickr.com/57/buddyicons/40732558184@N01.jpg",
 		"id": "40732558184@N01"
 	},
 	{
@@ -103,5 +103,15 @@
 		"name": "Ben Jenkins",
 		"icon": "http://static.flickr.com/1/buddyicons/64684853@N00.jpg",
 		"id": "64684853@N00"
+	},
+	{
+		"name": "Simon Batistoni",
+		"icon": "http://static.flickr.com/1/buddyicons/87944415@N00.jpg",
+		"id": "87944415@N00"
+	},
+	{
+		"name": "Myles Grant",
+		"icon": "http://static.flickr.com/1/buddyicons/35034347347@N01.jpg",
+		"id": "35034347347@N01"
 	}
 ]
