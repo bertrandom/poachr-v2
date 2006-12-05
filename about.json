@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Cal Henderson",
-		"icon": "http://static.flickr.com/41/buddyicons/12037949754@N01.jpg",
+		"icon": "http://static.flickr.com/122/buddyicons/12037949754@N01.jpg",
 		"id": "12037949754@N01"
 	},
 	{
@@ -113,5 +113,15 @@
 		"name": "Myles Grant",
 		"icon": "http://static.flickr.com/1/buddyicons/35034347347@N01.jpg",
 		"id": "35034347347@N01"
+	},
+	{
+		"name": "Dunstan Orchard",
+		"icon": "http://static.flickr.com/4/buddyicons/68756453@N00.jpg",
+		"id": "68756453@N00"
+	},
+	{
+		"name": "Gino Zahnd",
+		"icon": "http://static.flickr.com/43/buddyicons/92238055@N00.jpg",
+		"id": "92238055@N00"
 	}
 ]
