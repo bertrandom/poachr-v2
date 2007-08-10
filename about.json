@@ -70,11 +70,6 @@
 		"id": "61433954@N00"
 	},
 	{
-		"name": "Garrin Wong",
-		"icon": "http://farm1.static.flickr.com/36/buddyicons/18627880@N00.jpg",
-		"id": "18627880@N00"
-	},
-	{
 		"name": "Rev. Dan Catt",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/35468159852@N01.jpg",
 		"id": "35468159852@N01"
@@ -178,5 +173,10 @@
 		"name": "Zack Sheppard",
 		"icon": "http://farm1.static.flickr.com/25/buddyicons/41047258@N00.jpg",
 		"id": "41047258@N00"
+	},
+	{
+		"name": "Richard Crowley",
+		"icon": "http://farm1.static.flickr.com/45/buddyicons/81755678@N00.jpg",
+		"id": "81755678@N00"
 	}
 ]
