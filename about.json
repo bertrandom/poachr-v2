@@ -145,11 +145,6 @@
 		"id": "50362456@N00"
 	},
 	{
-		"name": "Ingrid Lestiyo",
-		"icon": "http://farm1.static.flickr.com/140/buddyicons/85333222@N00.jpg",
-		"id": "85333222@N00"
-	},
-	{
 		"name": "Jude Matsalla",
 		"icon": "http://farm1.static.flickr.com/6/buddyicons/21367926@N00.jpg",
 		"id": "21367926@N00"
@@ -170,6 +165,11 @@
 		"id": "35034345504@N01"
 	},
 	{
+		"name": "Tim Anderson ",
+		"icon": "http://farm1.static.flickr.com/104/buddyicons/95203990@N00.jpg",
+		"id": "95203990@N00"
+	},
+	{
 		"name": "Zack Sheppard",
 		"icon": "http://farm1.static.flickr.com/25/buddyicons/41047258@N00.jpg",
 		"id": "41047258@N00"
@@ -178,5 +178,20 @@
 		"name": "Richard Crowley",
 		"icon": "http://farm1.static.flickr.com/45/buddyicons/81755678@N00.jpg",
 		"id": "81755678@N00"
+	},
+	{
+		"name": "Daniel Bogan",
+		"icon": "http://farm1.static.flickr.com/45/buddyicons/51035718466@N01.jpg",
+		"id": "51035718466@N01"
+	},
+	{
+		"name": "Sarah Cooper",
+		"icon": "http://farm1.static.flickr.com/22/buddyicons/70505770@N00.jpg",
+		"id": "70505770@N00"
+	},
+	{
+		"name": "Becky Bochatey",
+		"icon": "http://farm1.static.flickr.com/6/buddyicons/59677913@N00.jpg",
+		"id": "59677913@N00"
 	}
 ]
