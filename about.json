@@ -120,11 +120,6 @@
 		"id": "68756453@N00"
 	},
 	{
-		"name": "Gino Zahnd",
-		"icon": "http://farm1.static.flickr.com/43/buddyicons/92238055@N00.jpg",
-		"id": "92238055@N00"
-	},
-	{
 		"name": "Maya Baratz",
 		"icon": "http://farm1.static.flickr.com/95/buddyicons/45288507@N00.jpg",
 		"id": "45288507@N00"
@@ -193,5 +188,30 @@
 		"name": "Becky Bochatey",
 		"icon": "http://farm1.static.flickr.com/6/buddyicons/59677913@N00.jpg",
 		"id": "59677913@N00"
+	},
+	{
+		"name": "David Fusco",
+		"icon": "http://farm3.static.flickr.com/2157/buddyicons/12951874@N00.jpg",
+		"id": "12951874@N00"
+	},
+	{
+		"name": "Joe Mudnich",
+		"icon": "http://farm1.static.flickr.com/133/buddyicons/98446719@N00.jpg",
+		"id": "98446719@N00"
+	},
+	{
+		"name": "Do Kim",
+		"icon": "http://farm3.static.flickr.com/2083/buddyicons/9427856@N03.jpg",
+		"id": "9427856@N03"
+	},
+	{
+		"name": "Emily Yiu",
+		"icon": "http://farm2.static.flickr.com/1062/buddyicons/9612964@N04.jpg",
+		"id": "9612964@N04"
+	},
+	{
+		"name": "Shanan Delp",
+		"icon": "http://farm1.static.flickr.com/37/buddyicons/29256742@N00.jpg",
+		"id": "29256742@N00"
 	}
 ]
