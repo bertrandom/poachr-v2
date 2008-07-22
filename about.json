@@ -65,11 +65,6 @@
 		"id": "60065287@N00"
 	},
 	{
-		"name": "Dathan Pattishall",
-		"icon": "http://farm1.static.flickr.com/18/buddyicons/61433954@N00.jpg",
-		"id": "61433954@N00"
-	},
-	{
 		"name": "Rev. Dan Catt",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/35468159852@N01.jpg",
 		"id": "35468159852@N01"
@@ -100,11 +95,6 @@
 		"id": "91842418@N00"
 	},
 	{
-		"name": "Ben Jenkins",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/64684853@N00.jpg",
-		"id": "64684853@N00"
-	},
-	{
 		"name": "Simon Batistoni",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/87944415@N00.jpg",
 		"id": "87944415@N00"
@@ -120,11 +110,6 @@
 		"id": "68756453@N00"
 	},
 	{
-		"name": "Maya Baratz",
-		"icon": "http://farm1.static.flickr.com/95/buddyicons/45288507@N00.jpg",
-		"id": "45288507@N00"
-	},
-	{
 		"name": "Tara Suan Kirchner",
 		"icon": "http://farm1.static.flickr.com/28/buddyicons/97506353@N00.jpg",
 		"id": "97506353@N00"
@@ -133,11 +118,6 @@
 		"name": "Gil Raphaelli",
 		"icon": "http://farm1.static.flickr.com/164/buddyicons/83127823@N00.jpg",
 		"id": "83127823@N00"
-	},
-	{
-		"name": "Michelle Cardinal",
-		"icon": "http://farm1.static.flickr.com/127/buddyicons/50362456@N00.jpg",
-		"id": "50362456@N00"
 	},
 	{
 		"name": "Jude Matsalla",
@@ -160,29 +140,14 @@
 		"id": "35034345504@N01"
 	},
 	{
-		"name": "Tim Anderson ",
-		"icon": "http://farm1.static.flickr.com/104/buddyicons/95203990@N00.jpg",
-		"id": "95203990@N00"
-	},
-	{
 		"name": "Zack Sheppard",
-		"icon": "http://farm1.static.flickr.com/25/buddyicons/41047258@N00.jpg",
+		"icon": "http://farm4.static.flickr.com/3023/buddyicons/41047258@N00.jpg",
 		"id": "41047258@N00"
-	},
-	{
-		"name": "Richard Crowley",
-		"icon": "http://farm1.static.flickr.com/45/buddyicons/81755678@N00.jpg",
-		"id": "81755678@N00"
 	},
 	{
 		"name": "Daniel Bogan",
 		"icon": "http://farm1.static.flickr.com/45/buddyicons/51035718466@N01.jpg",
 		"id": "51035718466@N01"
-	},
-	{
-		"name": "Sarah Cooper",
-		"icon": "http://farm1.static.flickr.com/22/buddyicons/70505770@N00.jpg",
-		"id": "70505770@N00"
 	},
 	{
 		"name": "Becky Bochatey",
@@ -206,12 +171,72 @@
 	},
 	{
 		"name": "Emily Yiu",
-		"icon": "http://farm2.static.flickr.com/1062/buddyicons/9612964@N04.jpg",
+		"icon": "http://farm3.static.flickr.com/2208/buddyicons/9612964@N04.jpg",
 		"id": "9612964@N04"
 	},
 	{
 		"name": "Shanan Delp",
 		"icon": "http://farm1.static.flickr.com/37/buddyicons/29256742@N00.jpg",
 		"id": "29256742@N00"
+	},
+	{
+		"name": "Phil Yu",
+		"icon": "http://farm2.static.flickr.com/1243/buddyicons/63633974@N00.jpg",
+		"id": "63633974@N00"
+	},
+	{
+		"name": "Adrienne Bassett",
+		"icon": "http://farm1.static.flickr.com/45/buddyicons/90318532@N00.jpg",
+		"id": "90318532@N00"
+	},
+	{
+		"name": "Kay Kremerskothen",
+		"icon": "http://farm1.static.flickr.com/8/buddyicons/43878178@N00.jpg",
+		"id": "43878178@N00"
+	},
+	{
+		"name": "Edson Soares",
+		"icon": "http://farm2.static.flickr.com/1268/buddyicons/13292108@N02.jpg",
+		"id": "13292108@N02"
+	},
+	{
+		"name": "Hana Choi",
+		"icon": "http://farm1.static.flickr.com/190/buddyicons/60594218@N00.jpg",
+		"id": "60594218@N00"
+	},
+	{
+		"name": "Shamir Ramjan",
+		"icon": "http://farm1.static.flickr.com/5/buddyicons/44106266@N00.jpg",
+		"id": "44106266@N00"
+	},
+	{
+		"name": "Kathleen Watkins",
+		"icon": "http://farm1.static.flickr.com/19/buddyicons/48026010@N00.jpg",
+		"id": "48026010@N00"
+	},
+	{
+		"name": "Omar Ansari",
+		"icon": "http://farm4.static.flickr.com/3206/buddyicons/78327732@N00.jpg",
+		"id": "78327732@N00"
+	},
+	{
+		"name": "Nima Badiey",
+		"icon": "http://farm4.static.flickr.com/3105/buddyicons/63298932@N00.jpg",
+		"id": "63298932@N00"
+	},
+	{
+		"name": "Ashot Petrosian",
+		"icon": "http://farm1.static.flickr.com/26/buddyicons/44124475031@N01.jpg",
+		"id": "44124475031@N01"
+	},
+	{
+		"name": "Sara Wood",
+		"icon": "http://farm1.static.flickr.com/15/buddyicons/40044045@N00.jpg",
+		"id": "40044045@N00"
+	},
+	{
+		"name": "Ross Harmes",
+		"icon": "http://farm1.static.flickr.com/19/buddyicons/81183458@N00.jpg",
+		"id": "81183458@N00"
 	}
 ]
