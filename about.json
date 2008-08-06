@@ -1,13 +1,8 @@
 [
 	{
-		"name": "Stewart Butterfield",
-		"icon": "http://farm1.static.flickr.com/29/buddyicons/12037949632@N01.jpg",
-		"id": "12037949632@N01"
-	},
-	{
-		"name": "Caterina Fake",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/12037949663@N01.jpg",
-		"id": "12037949663@N01"
+		"name": "Kakul Srivastava",
+		"icon": "http://farm1.static.flickr.com/57/buddyicons/40732558184@N01.jpg",
+		"id": "40732558184@N01"
 	},
 	{
 		"name": "Eric Costello",
@@ -15,24 +10,24 @@
 		"id": "12037949629@N01"
 	},
 	{
-		"name": "Cal Henderson",
-		"icon": "http://farm1.static.flickr.com/122/buddyicons/12037949754@N01.jpg",
-		"id": "12037949754@N01"
-	},
-	{
 		"name": "George Oates",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/34427469121@N01.jpg",
 		"id": "34427469121@N01"
 	},
 	{
-		"name": "Heather Champ",
-		"icon": "http://farm1.static.flickr.com/19/buddyicons/32373682187@N01.jpg",
-		"id": "32373682187@N01"
+		"name": "Cal Henderson",
+		"icon": "http://farm1.static.flickr.com/122/buddyicons/12037949754@N01.jpg",
+		"id": "12037949754@N01"
 	},
 	{
 		"name": "John Allspaw",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034347468@N01.jpg",
 		"id": "35034347468@N01"
+	},
+	{
+		"name": "Heather Champ",
+		"icon": "http://farm1.static.flickr.com/19/buddyicons/32373682187@N01.jpg",
+		"id": "32373682187@N01"
 	},
 	{
 		"name": "Aaron Straup Cope",
@@ -48,11 +43,6 @@
 		"name": "Paul Lloyd",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/37996631812@N01.jpg",
 		"id": "37996631812@N01"
-	},
-	{
-		"name": "Kakul Srivastava",
-		"icon": "http://farm1.static.flickr.com/57/buddyicons/40732558184@N01.jpg",
-		"id": "40732558184@N01"
 	},
 	{
 		"name": "Ana Zavala",
@@ -220,11 +210,6 @@
 		"id": "78327732@N00"
 	},
 	{
-		"name": "Nima Badiey",
-		"icon": "http://farm4.static.flickr.com/3105/buddyicons/63298932@N00.jpg",
-		"id": "63298932@N00"
-	},
-	{
 		"name": "Ashot Petrosian",
 		"icon": "http://farm1.static.flickr.com/26/buddyicons/44124475031@N01.jpg",
 		"id": "44124475031@N01"
@@ -238,5 +223,30 @@
 		"name": "Ross Harmes",
 		"icon": "http://farm1.static.flickr.com/19/buddyicons/81183458@N00.jpg",
 		"id": "81183458@N00"
+	},
+	{
+		"name": "Dee Adams",
+		"icon": "http://farm1.static.flickr.com/4/buddyicons/61471774@N00.jpg",
+		"id": "61471774@N00"
+	},
+	{
+		"name": "Melissa Ramos",
+		"icon": "http://farm4.static.flickr.com/3281/buddyicons/70626476@N00.jpg",
+		"id": "70626476@N00"
+	},
+	{
+		"name": "Timothy Denike",
+		"icon": "http://farm1.static.flickr.com/1/buddyicons/28306058@N00.jpg",
+		"id": "28306058@N00"
+	},
+	{
+		"name": "Stewart Butterfield",
+		"icon": "http://farm1.static.flickr.com/29/buddyicons/12037949632@N01.jpg",
+		"id": "12037949632@N01"
+	},
+	{
+		"name": "Caterina Fake",
+		"icon": "http://farm1.static.flickr.com/1/buddyicons/12037949663@N01.jpg",
+		"id": "12037949663@N01"
 	}
 ]
