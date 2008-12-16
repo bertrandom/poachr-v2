@@ -10,11 +10,6 @@
 		"id": "12037949629@N01"
 	},
 	{
-		"name": "George Oates",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/34427469121@N01.jpg",
-		"id": "34427469121@N01"
-	},
-	{
 		"name": "Cal Henderson",
 		"icon": "http://farm1.static.flickr.com/122/buddyicons/12037949754@N01.jpg",
 		"id": "12037949754@N01"
@@ -25,14 +20,14 @@
 		"id": "35034347468@N01"
 	},
 	{
-		"name": "Heather Champ",
-		"icon": "http://farm1.static.flickr.com/19/buddyicons/32373682187@N01.jpg",
-		"id": "32373682187@N01"
-	},
-	{
 		"name": "Aaron Straup Cope",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034348999@N01.jpg",
 		"id": "35034348999@N01"
+	},
+	{
+		"name": "Heather Champ",
+		"icon": "http://farm1.static.flickr.com/19/buddyicons/32373682187@N01.jpg",
+		"id": "32373682187@N01"
 	},
 	{
 		"name": "Serguei Mourachov",
@@ -43,11 +38,6 @@
 		"name": "Paul Lloyd",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/37996631812@N01.jpg",
 		"id": "37996631812@N01"
-	},
-	{
-		"name": "Ana Zavala",
-		"icon": "http://farm1.static.flickr.com/39/buddyicons/63004919@N00.jpg",
-		"id": "63004919@N00"
 	},
 	{
 		"name": "Peter Norby",
@@ -188,11 +178,6 @@
 		"name": "Shamir Ramjan",
 		"icon": "http://farm1.static.flickr.com/5/buddyicons/44106266@N00.jpg",
 		"id": "44106266@N00"
-	},
-	{
-		"name": "Kathleen Watkins",
-		"icon": "http://farm1.static.flickr.com/19/buddyicons/48026010@N00.jpg",
-		"id": "48026010@N00"
 	},
 	{
 		"name": "Omar Ansari",
