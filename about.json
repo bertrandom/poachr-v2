@@ -1,15 +1,5 @@
 [
 	{
-		"name": "Paul Lloyd",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/37996631812@N01.jpg",
-		"id": "37996631812@N01"
-	},
-	{
-		"name": "Aaron Straup Cope",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034348999@N01.jpg",
-		"id": "35034348999@N01"
-	},
-	{
 		"name": "John Allspaw",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034347468@N01.jpg",
 		"id": "35034347468@N01"
@@ -58,11 +48,6 @@
 		"name": "Simon Batistoni",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/87944415@N00.jpg",
 		"id": "87944415@N00"
-	},
-	{
-		"name": "Myles Grant",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034347347@N01.jpg",
-		"id": "35034347347@N01"
 	},
 	{
 		"name": "Dunstan Orchard",
@@ -138,11 +123,6 @@
 		"name": "Kay Kremerskothen",
 		"icon": "http://farm1.static.flickr.com/8/buddyicons/43878178@N00.jpg",
 		"id": "43878178@N00"
-	},
-	{
-		"name": "Edson Soares",
-		"icon": "http://farm4.static.flickr.com/3460/buddyicons/13292108@N02.jpg",
-		"id": "13292108@N02"
 	},
 	{
 		"name": "Shamir Ramjan",
@@ -248,6 +228,16 @@
 		"name": "Trevor Hartsell",
 		"icon": "http://farm1.static.flickr.com/6/buddyicons/97898435@N00.jpg",
 		"id": "97898435@N00"
+	},
+	{
+		"name": "Timoni Grone",
+		"icon": "http://farm1.static.flickr.com/16/buddyicons/95769700@N00.jpg",
+		"id": "95769700@N00"
+	},
+	{
+		"name": "Eric Gelinas",
+		"icon": "http://farm3.static.flickr.com/2179/buddyicons/14646162@N03.jpg",
+		"id": "14646162@N03"
 	},
 	{
 		"name": "Stewart Butterfield",
