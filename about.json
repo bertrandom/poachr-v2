@@ -1,10 +1,5 @@
 [
 	{
-		"name": "John Allspaw",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/35034347468@N01.jpg",
-		"id": "35034347468@N01"
-	},
-	{
 		"name": "Heather Champ",
 		"icon": "http://farm1.static.flickr.com/19/buddyicons/32373682187@N01.jpg",
 		"id": "32373682187@N01"
@@ -160,11 +155,6 @@
 		"id": "32373682210@N01"
 	},
 	{
-		"name": "Jérôme Decq",
-		"icon": "http://farm1.static.flickr.com/103/buddyicons/76474448@N00.jpg",
-		"id": "76474448@N00"
-	},
-	{
 		"name": "Josh Nguyen",
 		"icon": "http://farm1.static.flickr.com/33/buddyicons/88034992@N00.jpg",
 		"id": "88034992@N00"
@@ -238,6 +228,26 @@
 		"name": "Eric Gelinas",
 		"icon": "http://farm3.static.flickr.com/2179/buddyicons/14646162@N03.jpg",
 		"id": "14646162@N03"
+	},
+	{
+		"name": "Markus Spiering",
+		"icon": "http://farm4.static.flickr.com/3529/buddyicons/42151838@N03.jpg",
+		"id": "42151838@N03"
+	},
+	{
+		"name": "Arno Tsay",
+		"icon": "http://farm1.static.flickr.com/182/buddyicons/33878116@N00.jpg",
+		"id": "33878116@N00"
+	},
+	{
+		"name": "Bertrand Fan",
+		"icon": "http://farm1.static.flickr.com/10/buddyicons/61091860@N00.jpg",
+		"id": "61091860@N00"
+	},
+	{
+		"name": "Henry Lyne",
+		"icon": "http://farm3.static.flickr.com/2307/buddyicons/79577558@N00.jpg",
+		"id": "79577558@N00"
 	},
 	{
 		"name": "Stewart Butterfield",
