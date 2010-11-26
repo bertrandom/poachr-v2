@@ -25,11 +25,6 @@
 		"id": "91842418@N00"
 	},
 	{
-		"name": "Douglas Alexander",
-		"icon": "http://farm1.static.flickr.com/53/buddyicons/50049511@N00.jpg",
-		"id": "50049511@N00"
-	},
-	{
 		"name": "Simon Batistoni",
 		"icon": "http://farm1.static.flickr.com/1/buddyicons/87944415@N00.jpg",
 		"id": "87944415@N00"
@@ -150,11 +145,6 @@
 		"id": "64245090@N00"
 	},
 	{
-		"name": "Mike Panchenko",
-		"icon": "http://farm2.static.flickr.com/1353/buddyicons/8790317@N03.jpg",
-		"id": "8790317@N03"
-	},
-	{
 		"name": "Cris Stoddard",
 		"icon": "http://farm1.static.flickr.com/36/buddyicons/16333811@N00.jpg",
 		"id": "16333811@N00"
@@ -185,7 +175,7 @@
 		"id": "97898435@N00"
 	},
 	{
-		"name": "Timoni Grone",
+		"name": "Timoni West",
 		"icon": "http://farm1.static.flickr.com/16/buddyicons/95769700@N00.jpg",
 		"id": "95769700@N00"
 	},
@@ -221,7 +211,7 @@
 	},
 	{
 		"name": "Larissa Zimberoff",
-		"icon": "http://farm2.static.flickr.com/1247/buddyicons/28071551@N00.jpg",
+		"icon": "http://farm5.static.flickr.com/4006/buddyicons/28071551@N00.jpg",
 		"id": "28071551@N00"
 	},
 	{
@@ -268,5 +258,25 @@
 		"name": "Mike Deerkoski",
 		"icon": "http://farm1.static.flickr.com/55/buddyicons/87677022@N00.jpg",
 		"id": "87677022@N00"
+	},
+	{
+		"name": "Asher Feldman",
+		"icon": "http://farm4.static.flickr.com/3166/buddyicons/87959157@N00.jpg",
+		"id": "87959157@N00"
+	},
+	{
+		"name": "Bridget Lewis",
+		"icon": "http://farm5.static.flickr.com/4131/buddyicons/38692549@N00.jpg",
+		"id": "38692549@N00"
+	},
+	{
+		"name": "Paul Mison",
+		"icon": "http://farm1.static.flickr.com/1/buddyicons/48600109393@N01.jpg",
+		"id": "48600109393@N01"
+	},
+	{
+		"name": "Eric Han",
+		"icon": "http://farm2.static.flickr.com/1311/buddyicons/29208959@N03.jpg",
+		"id": "29208959@N03"
 	}
 ]
