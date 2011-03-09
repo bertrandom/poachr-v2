@@ -10,11 +10,6 @@
 		"id": "99871248@N00"
 	},
 	{
-		"name": "Kevin Collins",
-		"icon": "http://farm1.static.flickr.com/3/buddyicons/26887305@N00.jpg",
-		"id": "26887305@N00"
-	},
-	{
 		"name": "Manny Ventura",
 		"icon": "http://farm1.static.flickr.com/70/buddyicons/11988005@N00.jpg",
 		"id": "11988005@N00"
@@ -30,16 +25,6 @@
 		"id": "87944415@N00"
 	},
 	{
-		"name": "Dunstan Orchard",
-		"icon": "http://farm1.static.flickr.com/4/buddyicons/68756453@N00.jpg",
-		"id": "68756453@N00"
-	},
-	{
-		"name": "Tara Suan Kirchner",
-		"icon": "http://farm3.static.flickr.com/2692/buddyicons/97506353@N00.jpg",
-		"id": "97506353@N00"
-	},
-	{
 		"name": "Gilad Raphaelli",
 		"icon": "http://farm1.static.flickr.com/164/buddyicons/83127823@N00.jpg",
 		"id": "83127823@N00"
@@ -48,11 +33,6 @@
 		"name": "Scott Schiller",
 		"icon": "http://farm1.static.flickr.com/4/buddyicons/12289718@N00.jpg",
 		"id": "12289718@N00"
-	},
-	{
-		"name": "Kevin Murphy",
-		"icon": "http://farm5.static.flickr.com/4030/buddyicons/32295031@N00.jpg",
-		"id": "32295031@N00"
 	},
 	{
 		"name": "Zack Sheppard",
@@ -70,11 +50,6 @@
 		"id": "12951874@N00"
 	},
 	{
-		"name": "Joe Mud",
-		"icon": "http://farm1.static.flickr.com/133/buddyicons/98446719@N00.jpg",
-		"id": "98446719@N00"
-	},
-	{
 		"name": "Emily Yiu",
 		"icon": "http://farm3.static.flickr.com/2208/buddyicons/9612964@N04.jpg",
 		"id": "9612964@N04"
@@ -85,19 +60,9 @@
 		"id": "63633974@N00"
 	},
 	{
-		"name": "Adrienne Bassett",
-		"icon": "http://farm1.static.flickr.com/45/buddyicons/90318532@N00.jpg",
-		"id": "90318532@N00"
-	},
-	{
 		"name": "Kay Kremerskothen",
 		"icon": "http://farm1.static.flickr.com/8/buddyicons/43878178@N00.jpg",
 		"id": "43878178@N00"
-	},
-	{
-		"name": "Shamir Ramjan",
-		"icon": "http://farm2.static.flickr.com/1081/buddyicons/44106266@N00.jpg",
-		"id": "44106266@N00"
 	},
 	{
 		"name": "Jenny Mette",
@@ -120,11 +85,6 @@
 		"id": "32373682210@N01"
 	},
 	{
-		"name": "Josh Nguyen",
-		"icon": "http://farm1.static.flickr.com/33/buddyicons/88034992@N00.jpg",
-		"id": "88034992@N00"
-	},
-	{
 		"name": "Phil King",
 		"icon": "http://farm1.static.flickr.com/223/buddyicons/83052216@N00.jpg",
 		"id": "83052216@N00"
@@ -145,29 +105,14 @@
 		"id": "64245090@N00"
 	},
 	{
-		"name": "Cris Stoddard",
-		"icon": "http://farm1.static.flickr.com/36/buddyicons/16333811@N00.jpg",
-		"id": "16333811@N00"
-	},
-	{
 		"name": "Marssy Wong",
 		"icon": "http://farm1.static.flickr.com/23/buddyicons/70779799@N00.jpg",
 		"id": "70779799@N00"
 	},
 	{
-		"name": "Chris Martin",
-		"icon": "http://farm1.static.flickr.com/8/buddyicons/42982698@N00.jpg",
-		"id": "42982698@N00"
-	},
-	{
 		"name": "Denise Leung",
 		"icon": "http://farm4.static.flickr.com/3264/buddyicons/25003185@N07.jpg",
 		"id": "25003185@N07"
-	},
-	{
-		"name": "Cynthia Johanson",
-		"icon": "http://farm1.static.flickr.com/26/buddyicons/49022499@N00.jpg",
-		"id": "49022499@N00"
 	},
 	{
 		"name": "Trevor Hartsell",
@@ -205,16 +150,6 @@
 		"id": "79577558@N00"
 	},
 	{
-		"name": "Scott Navarro",
-		"icon": "http://farm5.static.flickr.com/4008/buddyicons/12657532@N05.jpg",
-		"id": "12657532@N05"
-	},
-	{
-		"name": "Larissa Zimberoff",
-		"icon": "http://farm5.static.flickr.com/4006/buddyicons/28071551@N00.jpg",
-		"id": "28071551@N00"
-	},
-	{
 		"name": "Stephen Woods",
 		"icon": "http://farm1.static.flickr.com/35/buddyicons/67101477@N00.jpg",
 		"id": "67101477@N00"
@@ -223,11 +158,6 @@
 		"name": "Jamal Fanaian",
 		"icon": "http://farm5.static.flickr.com/4019/buddyicons/21207597@N07.jpg",
 		"id": "21207597@N07"
-	},
-	{
-		"name": "Jenn Vargas",
-		"icon": "http://farm1.static.flickr.com/44/buddyicons/82779205@N00.jpg",
-		"id": "82779205@N00"
 	},
 	{
 		"name": "Nolan Caudill",
@@ -283,5 +213,15 @@
 		"name": "Chris Berry",
 		"icon": "http://farm1.static.flickr.com/22/buddyicons/34994084@N00.jpg",
 		"id": "34994084@N00"
+	},
+	{
+		"name": "Sergey Morozov",
+		"icon": "http://farm4.static.flickr.com/3530/buddyicons/81237759@N00.jpg",
+		"id": "81237759@N00"
+	},
+	{
+		"name": "Steven Loyd",
+		"icon": "http://farm6.static.flickr.com/5091/buddyicons/60432067@N07.jpg",
+		"id": "60432067@N07"
 	}
 ]
