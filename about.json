@@ -130,11 +130,6 @@
 		"id": "33878116@N00"
 	},
 	{
-		"name": "Bertrand Fan",
-		"icon": "http://farm1.static.flickr.com/10/buddyicons/61091860@N00.jpg",
-		"id": "61091860@N00"
-	},
-	{
 		"name": "Henry Lyne",
 		"icon": "http://farm3.static.flickr.com/2307/buddyicons/79577558@N00.jpg",
 		"id": "79577558@N00"
@@ -228,5 +223,10 @@
 		"name": "Ginny Hung",
 		"icon": "http://farm6.static.flickr.com/5190/buddyicons/30360667@N07.jpg",
 		"id": "30360667@N07"
+	},
+	{
+		"name": "Ben Freeman",
+		"icon": "http://farm3.static.flickr.com/2619/buddyicons/7658221@N03.jpg",
+		"id": "7658221@N03"
 	}
 ]
