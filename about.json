@@ -110,11 +110,6 @@
 		"id": "97898435@N00"
 	},
 	{
-		"name": "Timoni West",
-		"icon": "http://farm1.static.flickr.com/16/buddyicons/95769700@N00.jpg",
-		"id": "95769700@N00"
-	},
-	{
 		"name": "Eric Gelinas",
 		"icon": "http://farm5.static.flickr.com/4002/buddyicons/14646162@N03.jpg",
 		"id": "14646162@N03"
@@ -175,16 +170,6 @@
 		"id": "38692549@N00"
 	},
 	{
-		"name": "Paul Mison",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/48600109393@N01.jpg",
-		"id": "48600109393@N01"
-	},
-	{
-		"name": "Eric Han",
-		"icon": "http://farm2.static.flickr.com/1311/buddyicons/29208959@N03.jpg",
-		"id": "29208959@N03"
-	},
-	{
 		"name": "Chris Berry",
 		"icon": "http://farm1.static.flickr.com/22/buddyicons/34994084@N00.jpg",
 		"id": "34994084@N00"
@@ -205,11 +190,6 @@
 		"id": "53157796@N00"
 	},
 	{
-		"name": "Vidur Murali",
-		"icon": "http://farm6.static.flickr.com/5190/buddyicons/61626255@N07.jpg",
-		"id": "61626255@N07"
-	},
-	{
 		"name": "Tim Miller",
 		"icon": "http://farm1.static.flickr.com/16/buddyicons/49621803@N00.jpg",
 		"id": "49621803@N00"
@@ -218,11 +198,6 @@
 		"name": "Brad Peralta",
 		"icon": "http://farm6.static.flickr.com/5266/buddyicons/61607483@N06.jpg",
 		"id": "61607483@N06"
-	},
-	{
-		"name": "Ginny Hung",
-		"icon": "http://farm6.static.flickr.com/5190/buddyicons/30360667@N07.jpg",
-		"id": "30360667@N07"
 	},
 	{
 		"name": "Ben Freeman",
@@ -238,5 +213,20 @@
 		"name": "Matt Jennings",
 		"icon": "http://farm6.static.flickr.com/5315/buddyicons/64665527@N02.jpg",
 		"id": "64665527@N02"
+	},
+	{
+		"name": "Peter Welch",
+		"icon": "http://farm7.static.flickr.com/6193/buddyicons/46623443@N00.jpg",
+		"id": "46623443@N00"
+	},
+	{
+		"name": "Nick Rettinghouse",
+		"icon": "http://farm7.static.flickr.com/6083/buddyicons/58957329@N00.jpg",
+		"id": "58957329@N00"
+	},
+	{
+		"name": "Phil Dokas",
+		"icon": "http://farm1.static.flickr.com/8/buddyicons/36521981547@N01.jpg",
+		"id": "36521981547@N01"
 	}
 ]
