@@ -150,11 +150,6 @@
 		"id": "12063269@N00"
 	},
 	{
-		"name": "Maggie Nelson",
-		"icon": "http://farm1.static.flickr.com/1/buddyicons/35833811@N00.jpg",
-		"id": "35833811@N00"
-	},
-	{
 		"name": "Phillip Moore",
 		"icon": "http://farm1.static.flickr.com/21/buddyicons/60452248@N00.jpg",
 		"id": "60452248@N00"
@@ -183,6 +178,11 @@
 		"name": "Steven Loyd",
 		"icon": "http://farm6.static.flickr.com/5091/buddyicons/60432067@N07.jpg",
 		"id": "60432067@N07"
+	},
+	{
+		"name": "Cindy Li",
+		"icon": "http://farm1.static.flickr.com/8/buddyicons/43082001@N00.jpg",
+		"id": "43082001@N00"
 	},
 	{
 		"name": "Michael Panoff",
@@ -228,5 +228,15 @@
 		"name": "Phil Dokas",
 		"icon": "http://farm1.static.flickr.com/8/buddyicons/36521981547@N01.jpg",
 		"id": "36521981547@N01"
+	},
+	{
+		"name": "Hugo Haas",
+		"icon": "http://farm2.static.flickr.com/1171/buddyicons/31849727@N00.jpg",
+		"id": "31849727@N00"
+	},
+	{
+		"name": "Marc Perry",
+		"icon": "http://farm7.static.flickr.com/6171/buddyicons/67739563@N04.jpg",
+		"id": "67739563@N04"
 	}
 ]
