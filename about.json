@@ -161,7 +161,7 @@
 	},
 	{
 		"name": "Joshua Cohen",
-		"icon": "http://farm6.staticflickr.com/5331/buddyicons/27242387@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8158/buddyicons/27242387@N00.jpg",
 		"id": "27242387@N00"
 	},
 	{
@@ -181,12 +181,22 @@
 	},
 	{
 		"name": "Anna Thomas",
-		"icon": "http://farm8.staticflickr.com/7210/buddyicons/75089363@N02.jpg",
-		"id": "75089363@N02"
+		"icon": "http://farm9.staticflickr.com/8160/buddyicons/79778201@N06.jpg",
+		"id": "79778201@N06"
 	},
 	{
 		"name": "Sean Perkins",
 		"icon": "http://farm4.staticflickr.com/3101/buddyicons/46696356@N00.jpg",
 		"id": "46696356@N00"
+	},
+	{
+		"name": "Leo Liu",
+		"icon": "http://farm9.staticflickr.com/8024/buddyicons/19573586@N03.jpg",
+		"id": "19573586@N03"
+	},
+	{
+		"name": "Mutsubu Inayama",
+		"icon": "http://farm8.staticflickr.com/7123/buddyicons/77931770@N03.jpg",
+		"id": "77931770@N03"
 	}
 ]
