@@ -76,7 +76,7 @@
 	},
 	{
 		"name": "Jamal Fanaian",
-		"icon": "http://farm8.staticflickr.com/7020/buddyicons/21207597@N07.jpg",
+		"icon": "http://farm9.staticflickr.com/8454/buddyicons/21207597@N07.jpg",
 		"id": "21207597@N07"
 	},
 	{
@@ -146,7 +146,7 @@
 	},
 	{
 		"name": "Joshua Cohen",
-		"icon": "http://farm9.staticflickr.com/8158/buddyicons/27242387@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8472/buddyicons/27242387@N00.jpg",
 		"id": "27242387@N00"
 	},
 	{
@@ -196,7 +196,7 @@
 	},
 	{
 		"name": "Amol Deshmukh",
-		"icon": "http://farm9.staticflickr.com/8431/buddyicons/22027382@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8034/buddyicons/22027382@N00.jpg",
 		"id": "22027382@N00"
 	},
 	{
@@ -208,5 +208,10 @@
 		"name": "Ben Firestone",
 		"icon": "http://farm9.staticflickr.com/8035/buddyicons/11797544@N05.jpg",
 		"id": "11797544@N05"
+	},
+	{
+		"name": "John Ko",
+		"icon": "http://farm4.staticflickr.com/3215/buddyicons/80827319@N00.jpg",
+		"id": "80827319@N00"
 	}
 ]
