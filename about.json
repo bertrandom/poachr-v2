@@ -45,6 +45,11 @@
 		"id": "19933500@N00"
 	},
 	{
+		"name": "Chris Martin",
+		"icon": "http://farm1.staticflickr.com/8/buddyicons/42982698@N00.jpg",
+		"id": "42982698@N00"
+	},
+	{
 		"name": "Denise Leung",
 		"icon": "http://farm4.staticflickr.com/3264/buddyicons/25003185@N07.jpg",
 		"id": "25003185@N07"
@@ -121,7 +126,7 @@
 	},
 	{
 		"name": "Phil Dokas",
-		"icon": "http://farm1.staticflickr.com/8/buddyicons/36521981547@N01.jpg",
+		"icon": "http://farm8.staticflickr.com/7133/buddyicons/36521981547@N01.jpg",
 		"id": "36521981547@N01"
 	},
 	{
@@ -238,5 +243,10 @@
 		"name": "Matthew Beard",
 		"icon": "http://farm9.staticflickr.com/8044/buddyicons/88764870@N06.jpg",
 		"id": "88764870@N06"
+	},
+	{
+		"name": "Thea Lamkin",
+		"icon": "http://farm2.staticflickr.com/1100/buddyicons/55133492@N02.jpg",
+		"id": "55133492@N02"
 	}
 ]
