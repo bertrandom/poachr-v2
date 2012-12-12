@@ -151,7 +151,7 @@
 	},
 	{
 		"name": "John Ubante",
-		"icon": "http://farm4.staticflickr.com/3154/buddyicons/34774108@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8065/buddyicons/34774108@N00.jpg",
 		"id": "34774108@N00"
 	},
 	{
@@ -268,5 +268,10 @@
 		"name": "Ed Johnson",
 		"icon": "http://farm9.staticflickr.com/8064/buddyicons/66146036@N00.jpg",
 		"id": "66146036@N00"
+	},
+	{
+		"name": "Scott Goldblatt",
+		"icon": "http://farm9.staticflickr.com/8446/buddyicons/85201708@N05.jpg",
+		"id": "85201708@N05"
 	}
 ]
