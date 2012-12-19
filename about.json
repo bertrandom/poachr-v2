@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Markus Spiering",
-		"icon": "http://farm4.staticflickr.com/3529/buddyicons/42151838@N03.jpg",
+		"icon": "http://farm9.staticflickr.com/8224/buddyicons/42151838@N03.jpg",
 		"id": "42151838@N03"
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Cindy Li",
-		"icon": "http://farm1.staticflickr.com/8/buddyicons/43082001@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8348/buddyicons/43082001@N00.jpg",
 		"id": "43082001@N00"
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"name": "Mutsubu Inayama",
-		"icon": "http://farm8.staticflickr.com/7123/buddyicons/77931770@N03.jpg",
+		"icon": "http://farm9.staticflickr.com/8223/buddyicons/77931770@N03.jpg",
 		"id": "77931770@N03"
 	},
 	{
@@ -273,5 +273,15 @@
 		"name": "Scott Goldblatt",
 		"icon": "http://farm9.staticflickr.com/8446/buddyicons/85201708@N05.jpg",
 		"id": "85201708@N05"
+	},
+	{
+		"name": "John Tregoning",
+		"icon": "http://farm1.staticflickr.com/5/buddyicons/77923930@N00.jpg",
+		"id": "77923930@N00"
+	},
+	{
+		"name": "Bei Wu",
+		"icon": "http://farm9.staticflickr.com/8357/buddyicons/88689546@N02.jpg",
+		"id": "88689546@N02"
 	}
 ]
