@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Peter",
+		"name": "Norby",
 		"icon": "http://farm1.staticflickr.com/1/buddyicons/60065287@N00.jpg",
 		"id": "60065287@N00"
 	},
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Cindy",
-		"icon": "http://farm9.staticflickr.com/8348/buddyicons/43082001@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8524/buddyicons/43082001@N00.jpg",
 		"id": "43082001@N00"
 	},
 	{
@@ -271,7 +271,7 @@
 	},
 	{
 		"name": "John",
-		"icon": "http://farm1.staticflickr.com/5/buddyicons/77923930@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8386/buddyicons/77923930@N00.jpg",
 		"id": "77923930@N00"
 	},
 	{
@@ -286,7 +286,7 @@
 	},
 	{
 		"name": "Gerard",
-		"icon": "http://farm9.staticflickr.com/8101/buddyicons/78522870@N07.jpg",
+		"icon": "http://farm9.staticflickr.com/8093/buddyicons/78522870@N07.jpg",
 		"id": "78522870@N07"
 	},
 	{
@@ -303,5 +303,10 @@
 		"name": "Richard",
 		"icon": "http://farm9.staticflickr.com/8244/buddyicons/93570740@N07.jpg",
 		"id": "93570740@N07"
+	},
+	{
+		"name": "Scott",
+		"icon": "http://farm9.staticflickr.com/8375/buddyicons/28598814@N08.jpg",
+		"id": "28598814@N08"
 	}
 ]
