@@ -265,11 +265,6 @@
 		"id": "66146036@N00"
 	},
 	{
-		"name": "Scott",
-		"icon": "http://farm9.staticflickr.com/8446/buddyicons/85201708@N05.jpg",
-		"id": "85201708@N05"
-	},
-	{
 		"name": "John",
 		"icon": "http://farm9.staticflickr.com/8386/buddyicons/77923930@N00.jpg",
 		"id": "77923930@N00"
@@ -308,5 +303,15 @@
 		"name": "Scott",
 		"icon": "http://farm9.staticflickr.com/8375/buddyicons/28598814@N08.jpg",
 		"id": "28598814@N08"
+	},
+	{
+		"name": "Mike",
+		"icon": "http://farm9.staticflickr.com/8239/buddyicons/94104630@N06.jpg",
+		"id": "94104630@N06"
+	},
+	{
+		"name": "Archie",
+		"icon": "http://farm9.staticflickr.com/8106/buddyicons/13898829@N04.jpg",
+		"id": "13898829@N04"
 	}
 ]
