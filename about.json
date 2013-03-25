@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Norby",
+		"name": "Peter",
 		"icon": "http://farm1.staticflickr.com/1/buddyicons/60065287@N00.jpg",
 		"id": "60065287@N00"
 	},
@@ -63,6 +63,11 @@
 		"name": "Markus",
 		"icon": "http://farm9.staticflickr.com/8224/buddyicons/42151838@N03.jpg",
 		"id": "42151838@N03"
+	},
+	{
+		"name": "Bertrand",
+		"icon": "http://farm1.staticflickr.com/10/buddyicons/61091860@N00.jpg",
+		"id": "61091860@N00"
 	},
 	{
 		"name": "Dr Henry",
