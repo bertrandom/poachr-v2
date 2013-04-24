@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "Tim",
-		"icon": "http://farm1.staticflickr.com/16/buddyicons/49621803@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8108/buddyicons/49621803@N00.jpg",
 		"id": "49621803@N00"
 	},
 	{
@@ -313,5 +313,15 @@
 		"name": "Prashanth",
 		"icon": "http://farm3.staticflickr.com/2192/buddyicons/24328860@N05.jpg",
 		"id": "24328860@N05"
+	},
+	{
+		"name": "Alex",
+		"icon": "http://farm9.staticflickr.com/8111/buddyicons/91720879@N02.jpg",
+		"id": "91720879@N02"
+	},
+	{
+		"name": "Ryan",
+		"icon": "http://farm9.staticflickr.com/8472/buddyicons/92660732@N03.jpg",
+		"id": "92660732@N03"
 	}
 ]
