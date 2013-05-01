@@ -170,11 +170,6 @@
 		"id": "77931770@N03"
 	},
 	{
-		"name": "Catherine",
-		"icon": "http://farm8.staticflickr.com/7248/buddyicons/16264324@N07.jpg",
-		"id": "16264324@N07"
-	},
-	{
 		"name": "Sai",
 		"icon": "http://farm9.staticflickr.com/8426/buddyicons/33384077@N00.jpg",
 		"id": "33384077@N00"
@@ -323,5 +318,10 @@
 		"name": "Ryan",
 		"icon": "http://farm9.staticflickr.com/8472/buddyicons/92660732@N03.jpg",
 		"id": "92660732@N03"
+	},
+	{
+		"name": "Miguel",
+		"icon": "http://farm9.staticflickr.com/8114/buddyicons/86752378@N00.jpg",
+		"id": "86752378@N00"
 	}
 ]
