@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Peter",
-		"icon": "http://farm1.staticflickr.com/1/buddyicons/60065287@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7300/buddyicons/60065287@N00.jpg",
 		"id": "60065287@N00"
 	},
 	{
@@ -21,17 +21,17 @@
 	},
 	{
 		"name": "Kay",
-		"icon": "http://farm1.staticflickr.com/8/buddyicons/43878178@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7385/buddyicons/43878178@N00.jpg",
 		"id": "43878178@N00"
 	},
 	{
 		"name": "Jenny",
-		"icon": "http://farm9.staticflickr.com/8386/buddyicons/44124406322@N01.jpg",
+		"icon": "http://farm8.staticflickr.com/7447/buddyicons/44124406322@N01.jpg",
 		"id": "44124406322@N01"
 	},
 	{
 		"name": "Ross",
-		"icon": "http://farm1.staticflickr.com/19/buddyicons/81183458@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7405/buddyicons/81183458@N00.jpg",
 		"id": "81183458@N00"
 	},
 	{
@@ -51,17 +51,17 @@
 	},
 	{
 		"name": "Trevor",
-		"icon": "http://farm1.staticflickr.com/6/buddyicons/97898435@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7309/buddyicons/97898435@N00.jpg",
 		"id": "97898435@N00"
 	},
 	{
 		"name": "Eric",
-		"icon": "http://farm9.staticflickr.com/8239/buddyicons/14646162@N03.jpg",
+		"icon": "http://farm8.staticflickr.com/7362/buddyicons/14646162@N03.jpg",
 		"id": "14646162@N03"
 	},
 	{
 		"name": "Markus",
-		"icon": "http://farm9.staticflickr.com/8224/buddyicons/42151838@N03.jpg",
+		"icon": "http://farm8.staticflickr.com/7351/buddyicons/42151838@N03.jpg",
 		"id": "42151838@N03"
 	},
 	{
@@ -76,7 +76,7 @@
 	},
 	{
 		"name": "Stephen",
-		"icon": "http://farm1.staticflickr.com/35/buddyicons/67101477@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7399/buddyicons/67101477@N00.jpg",
 		"id": "67101477@N00"
 	},
 	{
@@ -96,12 +96,12 @@
 	},
 	{
 		"name": "Cindy",
-		"icon": "http://farm9.staticflickr.com/8524/buddyicons/43082001@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7414/buddyicons/43082001@N00.jpg",
 		"id": "43082001@N00"
 	},
 	{
 		"name": "Tim",
-		"icon": "http://farm9.staticflickr.com/8108/buddyicons/49621803@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7298/buddyicons/49621803@N00.jpg",
 		"id": "49621803@N00"
 	},
 	{
@@ -136,22 +136,22 @@
 	},
 	{
 		"name": "Georges",
-		"icon": "http://farm7.staticflickr.com/6037/buddyicons/48919193@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7430/buddyicons/48919193@N00.jpg",
 		"id": "48919193@N00"
 	},
 	{
 		"name": "Joshua",
-		"icon": "http://farm9.staticflickr.com/8472/buddyicons/27242387@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7430/buddyicons/27242387@N00.jpg",
 		"id": "27242387@N00"
 	},
 	{
 		"name": "John",
-		"icon": "http://farm9.staticflickr.com/8121/buddyicons/34774108@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7440/buddyicons/34774108@N00.jpg",
 		"id": "34774108@N00"
 	},
 	{
 		"name": "Brett",
-		"icon": "http://farm1.staticflickr.com/28/buddyicons/91332142@N00.jpg",
+		"icon": "http://farm9.staticflickr.com/8121/buddyicons/91332142@N00.jpg",
 		"id": "91332142@N00"
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"name": "Sai",
-		"icon": "http://farm9.staticflickr.com/8426/buddyicons/33384077@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7385/buddyicons/33384077@N00.jpg",
 		"id": "33384077@N00"
 	},
 	{
@@ -196,7 +196,7 @@
 	},
 	{
 		"name": "Ben",
-		"icon": "http://farm9.staticflickr.com/8035/buddyicons/11797544@N05.jpg",
+		"icon": "http://farm8.staticflickr.com/7316/buddyicons/11797544@N05.jpg",
 		"id": "11797544@N05"
 	},
 	{
@@ -221,7 +221,7 @@
 	},
 	{
 		"name": "John",
-		"icon": "http://farm4.staticflickr.com/3215/buddyicons/80827319@N00.jpg",
+		"icon": "http://farm8.staticflickr.com/7282/buddyicons/80827319@N00.jpg",
 		"id": "80827319@N00"
 	},
 	{
@@ -288,11 +288,6 @@
 		"name": "Scott",
 		"icon": "http://farm9.staticflickr.com/8375/buddyicons/28598814@N08.jpg",
 		"id": "28598814@N08"
-	},
-	{
-		"name": "Mike",
-		"icon": "http://farm9.staticflickr.com/8239/buddyicons/94104630@N06.jpg",
-		"id": "94104630@N06"
 	},
 	{
 		"name": "Archie",
