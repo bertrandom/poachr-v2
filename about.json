@@ -92,7 +92,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/jfanaian/",
 		"name": "Jamal",
-		"icon": "http://farm8.staticflickr.com/7282/buddyicons/21207597@N07_r.jpg",
+		"icon": "http://farm6.staticflickr.com/5498/buddyicons/21207597@N07_r.jpg",
 		"id": "21207597@N07"
 	},
 	{
@@ -412,5 +412,11 @@
 		"name": "Ye",
 		"icon": "http://farm2.staticflickr.com/1088/buddyicons/87805488@N00.jpg",
 		"id": "87805488@N00"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/travishoulette/",
+		"name": "Travis",
+		"icon": "http://farm4.staticflickr.com/3833/buddyicons/98716777@N05_r.jpg",
+		"id": "98716777@N05"
 	}
 ]
