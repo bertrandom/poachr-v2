@@ -128,7 +128,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/cortisol/",
 		"name": "Matt",
-		"icon": "http://farm8.staticflickr.com/7456/buddyicons/64665527@N02_l.jpg",
+		"icon": "http://farm3.staticflickr.com/2850/buddyicons/64665527@N02_r.jpg",
 		"id": "64665527@N02"
 	},
 	{
@@ -180,12 +180,6 @@
 		"id": "46696356@N00"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/19573586@N03/",
-		"name": "Leo",
-		"icon": "http://farm9.staticflickr.com/8024/buddyicons/19573586@N03.jpg",
-		"id": "19573586@N03"
-	},
-	{
 		"photostream": "http://www.flickr.com/photos/mutsubu/",
 		"name": "Mutsubu",
 		"icon": "http://farm6.staticflickr.com/5329/buddyicons/77931770@N03_r.jpg",
@@ -234,22 +228,10 @@
 		"id": "11797544@N05"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/81148265@N00/",
-		"name": "Jeff",
-		"icon": "http://farm9.staticflickr.com/8449/buddyicons/81148265@N00.jpg",
-		"id": "81148265@N00"
-	},
-	{
 		"photostream": "http://www.flickr.com/photos/ayman/",
 		"name": "Ayman",
 		"icon": "http://farm4.staticflickr.com/3757/buddyicons/71774264@N00_r.jpg",
 		"id": "71774264@N00"
-	},
-	{
-		"photostream": "http://www.flickr.com/photos/zedmanauk/",
-		"name": "Tejaswi",
-		"icon": "http://farm1.staticflickr.com/37/buddyicons/51035747353@N01.jpg",
-		"id": "51035747353@N01"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/11388835@N02/",
