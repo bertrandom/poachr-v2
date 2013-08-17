@@ -162,12 +162,6 @@
 		"id": "48919193@N00"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/drbrett/",
-		"name": "Brett",
-		"icon": "http://farm8.staticflickr.com/7301/buddyicons/91332142@N00_r.jpg",
-		"id": "91332142@N00"
-	},
-	{
 		"photostream": "http://www.flickr.com/photos/annathomas_flickr/",
 		"name": "Anna",
 		"icon": "http://farm3.staticflickr.com/2810/buddyicons/79778201@N06_r.jpg",
@@ -412,5 +406,11 @@
 		"name": "Satish",
 		"icon": "http://farm4.staticflickr.com/3772/buddyicons/84182152@N02_r.jpg",
 		"id": "84182152@N02"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/bernzo/",
+		"name": "Bernardo",
+		"icon": "http://farm9.staticflickr.com/8115/buddyicons/44823083@N00_l.jpg",
+		"id": "44823083@N00"
 	}
 ]
