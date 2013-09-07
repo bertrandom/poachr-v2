@@ -454,5 +454,11 @@
 		"name": "Jack",
 		"icon": "http://farm8.staticflickr.com/7423/buddyicons/100886156@N02_r.jpg",
 		"id": "100886156@N02"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/pfischermx/",
+		"name": "Pablo",
+		"icon": "http://farm6.staticflickr.com/5005/buddyicons/56505984@N06.jpg",
+		"id": "56505984@N06"
 	}
 ]
