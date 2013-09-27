@@ -38,7 +38,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/deeverse/",
 		"name": "Daniel",
-		"icon": "http://farm8.staticflickr.com/7318/buddyicons/19933500@N00_r.jpg",
+		"icon": "http://farm6.staticflickr.com/5498/buddyicons/19933500@N00_r.jpg",
 		"id": "19933500@N00"
 	},
 	{
@@ -192,7 +192,7 @@
 		"id": "22027382@N00"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/73409687@N03/",
+		"photostream": "http://www.flickr.com/photos/rajivvaidyanathan/",
 		"name": "Rajiv",
 		"icon": "http://farm8.staticflickr.com/7294/buddyicons/73409687@N03_r.jpg",
 		"id": "73409687@N03"
@@ -452,7 +452,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/apricotjam/",
 		"name": "Jack",
-		"icon": "http://farm8.staticflickr.com/7423/buddyicons/100886156@N02_r.jpg",
+		"icon": "http://farm6.staticflickr.com/5332/buddyicons/100886156@N02_r.jpg",
 		"id": "100886156@N02"
 	},
 	{
@@ -460,5 +460,11 @@
 		"name": "Pablo",
 		"icon": "http://farm6.staticflickr.com/5005/buddyicons/56505984@N06.jpg",
 		"id": "56505984@N06"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/pemmott/",
+		"name": "Parker",
+		"icon": "http://farm8.staticflickr.com/7450/buddyicons/15939253@N00_r.jpg",
+		"id": "15939253@N00"
 	}
 ]
