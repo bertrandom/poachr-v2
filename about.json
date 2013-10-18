@@ -38,7 +38,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/deeverse/",
 		"name": "Daniel",
-		"icon": "http://farm6.staticflickr.com/5498/buddyicons/19933500@N00_r.jpg",
+		"icon": "http://farm4.staticflickr.com/3726/buddyicons/19933500@N00_r.jpg",
 		"id": "19933500@N00"
 	},
 	{
@@ -181,7 +181,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/unl0cked/",
-		"name": "O'mol",
+		"name": "Amol",
 		"icon": "http://farm4.staticflickr.com/3770/buddyicons/22027382@N00_l.jpg",
 		"id": "22027382@N00"
 	},
@@ -278,7 +278,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/81467316@N03/",
 		"name": "Nandini",
-		"icon": "http://farm6.staticflickr.com/5330/buddyicons/81467316@N03_r.jpg",
+		"icon": "http://farm4.staticflickr.com/3829/buddyicons/81467316@N03_l.jpg",
 		"id": "81467316@N03"
 	},
 	{
@@ -298,12 +298,6 @@
 		"name": "Stefano",
 		"icon": "http://farm8.staticflickr.com/7284/buddyicons/42291900@N06_r.jpg",
 		"id": "42291900@N06"
-	},
-	{
-		"photostream": "http://www.flickr.com/photos/munichlinux/",
-		"name": "Prashanth",
-		"icon": "http://farm3.staticflickr.com/2192/buddyicons/24328860@N05.jpg",
-		"id": "24328860@N05"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/alex-seville/",
@@ -466,5 +460,11 @@
 		"name": "Gabriele",
 		"icon": "http://farm6.staticflickr.com/5504/buddyicons/9968347@N06_r.jpg",
 		"id": "9968347@N06"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/104159205@N05/",
+		"name": "Kelly",
+		"icon": "http://farm3.staticflickr.com/2855/buddyicons/104159205@N05_l.jpg",
+		"id": "104159205@N05"
 	}
 ]
