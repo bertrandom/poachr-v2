@@ -67,7 +67,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/bertrandom/",
-		"name": "Bertrand",
+		"name": "Bart Fun",
 		"icon": "http://farm4.staticflickr.com/3780/buddyicons/61091860@N00_r.jpg",
 		"id": "61091860@N00"
 	},
@@ -136,12 +136,6 @@
 		"name": "Marc",
 		"icon": "http://farm9.staticflickr.com/8542/buddyicons/67739563@N04_r.jpg",
 		"id": "67739563@N04"
-	},
-	{
-		"photostream": "http://www.flickr.com/photos/georgeshaddad/",
-		"name": "Georges",
-		"icon": "http://farm8.staticflickr.com/7451/buddyicons/48919193@N00_r.jpg",
-		"id": "48919193@N00"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/annathomas_flickr/",
@@ -310,6 +304,12 @@
 		"name": "Ryan",
 		"icon": "http://farm6.staticflickr.com/5526/buddyicons/92660732@N03_r.jpg",
 		"id": "92660732@N03"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/76581536@N03/",
+		"name": "Shaun",
+		"icon": "http://farm8.staticflickr.com/7309/buddyicons/76581536@N03_r.jpg",
+		"id": "76581536@N03"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/julietbutterfield/",
