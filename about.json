@@ -458,7 +458,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/9968347@N06/",
 		"name": "Gabriele",
-		"icon": "http://farm6.staticflickr.com/5504/buddyicons/9968347@N06_r.jpg",
+		"icon": "http://farm6.staticflickr.com/5536/buddyicons/9968347@N06_r.jpg",
 		"id": "9968347@N06"
 	},
 	{
@@ -466,5 +466,11 @@
 		"name": "Kelly",
 		"icon": "http://farm3.staticflickr.com/2855/buddyicons/104159205@N05_l.jpg",
 		"id": "104159205@N05"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/superic/",
+		"name": "Eric",
+		"icon": "http://farm6.staticflickr.com/5327/buddyicons/66422871@N00_l.jpg",
+		"id": "66422871@N00"
 	}
 ]
