@@ -472,5 +472,23 @@
 		"name": "Eric",
 		"icon": "http://farm6.staticflickr.com/5327/buddyicons/66422871@N00_l.jpg",
 		"id": "66422871@N00"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/pumpikano/",
+		"name": "Clayton",
+		"icon": "http://farm4.staticflickr.com/3732/buddyicons/55029388@N03_l.jpg",
+		"id": "55029388@N03"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/metaphdor/",
+		"name": "Stacey",
+		"icon": "http://farm4.staticflickr.com/3707/buddyicons/93935575@N07_r.jpg",
+		"id": "93935575@N07"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/resplendency/",
+		"name": "Simon",
+		"icon": "http://farm3.staticflickr.com/2827/buddyicons/106528482@N04_r.jpg",
+		"id": "106528482@N04"
 	}
 ]
