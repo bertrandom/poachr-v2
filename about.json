@@ -468,6 +468,12 @@
 		"id": "104159205@N05"
 	},
 	{
+		"photostream": "http://www.flickr.com/photos/vandanp/",
+		"name": "Vandan",
+		"icon": "http://farm3.staticflickr.com/2834/buddyicons/105534091@N02_r.jpg",
+		"id": "105534091@N02"
+	},
+	{
 		"photostream": "http://www.flickr.com/photos/superic/",
 		"name": "Eric",
 		"icon": "http://farm6.staticflickr.com/5327/buddyicons/66422871@N00_l.jpg",
@@ -490,5 +496,11 @@
 		"name": "Simon",
 		"icon": "http://farm3.staticflickr.com/2827/buddyicons/106528482@N04_r.jpg",
 		"id": "106528482@N04"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/bobbyjaros/",
+		"name": "Bobby",
+		"icon": "http://farm3.staticflickr.com/2888/buddyicons/100276561@N07_l.jpg",
+		"id": "100276561@N07"
 	}
 ]
