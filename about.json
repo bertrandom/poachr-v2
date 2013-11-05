@@ -73,7 +73,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/protohiro/",
-		"name": "Stephen",
+		"name": "Cranky",
 		"icon": "http://farm3.staticflickr.com/2843/buddyicons/67101477@N00_r.jpg",
 		"id": "67101477@N00"
 	},
@@ -136,12 +136,6 @@
 		"name": "Marc",
 		"icon": "http://farm9.staticflickr.com/8542/buddyicons/67739563@N04_r.jpg",
 		"id": "67739563@N04"
-	},
-	{
-		"photostream": "http://www.flickr.com/photos/annathomas_flickr/",
-		"name": "Anna",
-		"icon": "http://farm3.staticflickr.com/2810/buddyicons/79778201@N06_r.jpg",
-		"id": "79778201@N06"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/slp23/",
@@ -232,12 +226,6 @@
 		"name": "Tague",
 		"icon": "http://farm4.staticflickr.com/3707/buddyicons/33843011@N00_r.jpg",
 		"id": "33843011@N00"
-	},
-	{
-		"photostream": "http://www.flickr.com/photos/edwardotis/",
-		"name": "Ed",
-		"icon": "http://farm9.staticflickr.com/8064/buddyicons/66146036@N00.jpg",
-		"id": "66146036@N00"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/johnniewalker/",
@@ -373,7 +361,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/captin_nod/",
-		"name": "Bhautik",
+		"name": "Hat",
 		"icon": "http://farm4.staticflickr.com/3822/buddyicons/50847591@N00_r.jpg",
 		"id": "50847591@N00"
 	},
