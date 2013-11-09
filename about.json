@@ -490,5 +490,11 @@
 		"name": "Bobby",
 		"icon": "http://farm3.staticflickr.com/2888/buddyicons/100276561@N07_l.jpg",
 		"id": "100276561@N07"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/ericsoco/",
+		"name": "Eric",
+		"icon": "http://farm4.staticflickr.com/3745/buddyicons/34427466510@N01_l.jpg",
+		"id": "34427466510@N01"
 	}
 ]
