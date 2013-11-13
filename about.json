@@ -115,7 +115,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/cortisol/",
-		"name": "Matt",
+		"name": "#horsebeach",
 		"icon": "http://farm3.staticflickr.com/2850/buddyicons/64665527@N02_r.jpg",
 		"id": "64665527@N02"
 	},
@@ -294,7 +294,7 @@
 		"id": "92660732@N03"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/76581536@N03/",
+		"photostream": "http://www.flickr.com/photos/shaunners/",
 		"name": "Shaun",
 		"icon": "http://farm8.staticflickr.com/7309/buddyicons/76581536@N03_r.jpg",
 		"id": "76581536@N03"
@@ -402,12 +402,6 @@
 		"id": "100887694@N02"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/allie_j/",
-		"name": "Allison",
-		"icon": "http://farm3.staticflickr.com/2816/buddyicons/100247859@N04_r.jpg",
-		"id": "100247859@N04"
-	},
-	{
 		"photostream": "http://www.flickr.com/photos/gerrypez/",
 		"name": "Gerry",
 		"icon": "http://farm6.staticflickr.com/5492/buddyicons/27801797@N03_l.jpg",
@@ -496,5 +490,17 @@
 		"name": "Eric",
 		"icon": "http://farm4.staticflickr.com/3745/buddyicons/34427466510@N01_l.jpg",
 		"id": "34427466510@N01"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/100380622@N03/",
+		"name": "Yao",
+		"icon": "http://farm8.staticflickr.com/7300/buddyicons/100380622@N03_r.jpg",
+		"id": "100380622@N03"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/grimlor/",
+		"name": "Ethan",
+		"icon": "http://farm6.staticflickr.com/5509/buddyicons/108475195@N05_l.jpg",
+		"id": "108475195@N05"
 	}
 ]
