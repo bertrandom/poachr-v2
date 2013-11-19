@@ -115,7 +115,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/cortisol/",
-		"name": "#horsebeach",
+		"name": "Matt",
 		"icon": "http://farm3.staticflickr.com/2850/buddyicons/64665527@N02_r.jpg",
 		"id": "64665527@N02"
 	},
@@ -502,5 +502,11 @@
 		"name": "Ethan",
 		"icon": "http://farm6.staticflickr.com/5509/buddyicons/108475195@N05_l.jpg",
 		"id": "108475195@N05"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/jabwemet/",
+		"name": "Aditya",
+		"icon": "http://farm6.staticflickr.com/5168/buddyicons/58232860@N05.jpg",
+		"id": "58232860@N05"
 	}
 ]
