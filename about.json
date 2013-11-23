@@ -115,7 +115,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/cortisol/",
-		"name": "Matt",
+		"name": "Matty J",
 		"icon": "http://farm3.staticflickr.com/2850/buddyicons/64665527@N02_r.jpg",
 		"id": "64665527@N02"
 	},
@@ -492,7 +492,7 @@
 		"id": "34427466510@N01"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/100380622@N03/",
+		"photostream": "http://www.flickr.com/photos/yaoliu/",
 		"name": "Yao",
 		"icon": "http://farm8.staticflickr.com/7300/buddyicons/100380622@N03_r.jpg",
 		"id": "100380622@N03"
@@ -508,5 +508,11 @@
 		"name": "Aditya",
 		"icon": "http://farm6.staticflickr.com/5168/buddyicons/58232860@N05.jpg",
 		"id": "58232860@N05"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/jeremyruppel/",
+		"name": "Jeremy",
+		"icon": "http://farm8.staticflickr.com/7286/buddyicons/28240581@N05_r.jpg",
+		"id": "28240581@N05"
 	}
 ]
