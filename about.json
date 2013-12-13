@@ -13,7 +13,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/wafer/",
-		"name": "Daniel",
+		"name": "Tootsie",
 		"icon": "http://farm4.staticflickr.com/3808/buddyicons/51035718466@N01_r.jpg",
 		"id": "51035718466@N01"
 	},
@@ -80,13 +80,13 @@
 	{
 		"photostream": "http://www.flickr.com/photos/jfanaian/",
 		"name": "Jamal",
-		"icon": "http://farm6.staticflickr.com/5529/buddyicons/21207597@N07_r.jpg",
+		"icon": "http://farm4.staticflickr.com/3783/buddyicons/21207597@N07_l.jpg",
 		"id": "21207597@N07"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/rubixdead/",
 		"name": "Chris",
-		"icon": "http://farm8.staticflickr.com/7351/buddyicons/34994084@N00_r.jpg",
+		"icon": "http://farm8.staticflickr.com/7314/buddyicons/34994084@N00_r.jpg",
 		"id": "34994084@N00"
 	},
 	{
@@ -244,6 +244,12 @@
 		"name": "John",
 		"icon": "http://farm6.staticflickr.com/5445/buddyicons/77923930@N00_r.jpg",
 		"id": "77923930@N00"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/beibeifish/",
+		"name": "Bei",
+		"icon": "http://farm6.staticflickr.com/5348/buddyicons/88689546@N02_r.jpg",
+		"id": "88689546@N02"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/anya_flickr/",
@@ -536,13 +542,13 @@
 	{
 		"photostream": "http://www.flickr.com/photos/jabwemet/",
 		"name": "Aditya",
-		"icon": "http://farm6.staticflickr.com/5168/buddyicons/58232860@N05.jpg",
+		"icon": "http://farm4.staticflickr.com/3705/buddyicons/58232860@N05_r.jpg",
 		"id": "58232860@N05"
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/andytlaw/",
 		"name": "Andy",
-		"icon": "http://farm4.staticflickr.com/3669/buddyicons/99571768@N07_r.jpg",
+		"icon": "http://farm4.staticflickr.com/3681/buddyicons/99571768@N07_r.jpg",
 		"id": "99571768@N07"
 	},
 	{
@@ -558,7 +564,7 @@
 		"id": "51203960@N03"
 	},
 	{
-		"photostream": "http://www.flickr.com/photos/99985785@N04/",
+		"photostream": "http://www.flickr.com/photos/jeffaguero/",
 		"name": "Jeff",
 		"icon": "http://farm8.staticflickr.com/7350/buddyicons/99985785@N04_r.jpg",
 		"id": "99985785@N04"
