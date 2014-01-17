@@ -367,7 +367,7 @@
 	},
 	{
 		"photostream": "http://www.flickr.com/photos/knkteja/",
-		"name": "Komma",
+		"name": "Teja",
 		"icon": "http://farm6.staticflickr.com/5492/buddyicons/16907380@N05_l.jpg",
 		"id": "16907380@N05"
 	},
@@ -562,5 +562,11 @@
 		"name": "Jeff",
 		"icon": "http://farm8.staticflickr.com/7350/buddyicons/99985785@N04_r.jpg",
 		"id": "99985785@N04"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/yipstas/",
+		"name": "Yardley",
+		"icon": "http://farm3.staticflickr.com/2841/buddyicons/106258143@N05_r.jpg",
+		"id": "106258143@N05"
 	}
 ]
