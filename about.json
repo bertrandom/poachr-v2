@@ -564,9 +564,21 @@
 		"id": "99985785@N04"
 	},
 	{
+		"photostream": "http://www.flickr.com/photos/104827732@N04/",
+		"name": "Vaanan",
+		"icon": "http://farm6.staticflickr.com/5523/buddyicons/104827732@N04_m.jpg",
+		"id": "104827732@N04"
+	},
+	{
 		"photostream": "http://www.flickr.com/photos/yipstas/",
 		"name": "Yardley",
 		"icon": "http://farm3.staticflickr.com/2841/buddyicons/106258143@N05_r.jpg",
 		"id": "106258143@N05"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/matthewalmonroth/",
+		"name": "Matthew",
+		"icon": "http://farm2.staticflickr.com/1331/buddyicons/98089007@N00.jpg",
+		"id": "98089007@N00"
 	}
 ]
