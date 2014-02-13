@@ -80,7 +80,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/rubixdead/",
 		"name": "Chris",
-		"icon": "http://farm8.staticflickr.com/7314/buddyicons/34994084@N00_r.jpg",
+		"icon": "http://farm8.staticflickr.com/7328/buddyicons/34994084@N00_r.jpg",
 		"id": "34994084@N00"
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"photostream": "http://www.flickr.com/photos/helenwliu/",
 		"name": "Helen",
-		"icon": "http://farm4.staticflickr.com/3685/buddyicons/100490683@N02_r.jpg",
+		"icon": "http://farm6.staticflickr.com/5476/buddyicons/100490683@N02_r.jpg",
 		"id": "100490683@N02"
 	},
 	{
@@ -586,5 +586,11 @@
 		"name": "Ethan",
 		"icon": "http://farm6.staticflickr.com/5485/buddyicons/49743098@N00_r.jpg",
 		"id": "49743098@N00"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/allisonrowe23/",
+		"name": "Allison",
+		"icon": "http://farm3.staticflickr.com/2894/buddyicons/91037669@N06_r.jpg",
+		"id": "91037669@N06"
 	}
 ]
