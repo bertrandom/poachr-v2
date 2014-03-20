@@ -610,5 +610,11 @@
 		"name": "Rocir",
 		"icon": "http://farm8.staticflickr.com/7365/buddyicons/103815009@N03_l.jpg",
 		"id": "103815009@N03"
+	},
+	{
+		"photostream": "http://www.flickr.com/photos/lizlapp/",
+		"name": "Liz",
+		"icon": "http://farm8.staticflickr.com/7345/buddyicons/94828117@N05_r.jpg",
+		"id": "94828117@N05"
 	}
 ]
