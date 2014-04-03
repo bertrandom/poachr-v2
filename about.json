@@ -476,7 +476,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/superic/",
 		"name": "Eric",
-		"icon": "https://farm4.staticflickr.com/3672/buddyicons/66422871@N00_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
 	},
 	{
@@ -604,5 +604,11 @@
 		"name": "Kimberly",
 		"icon": "https://farm3.staticflickr.com/2864/buddyicons/77724047@N00_r.jpg",
 		"id": "77724047@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/120309078@N08/",
+		"name": "Cyprien",
+		"icon": "https://farm8.staticflickr.com/7001/buddyicons/120309078@N08_l.jpg",
+		"id": "120309078@N08"
 	}
 ]
