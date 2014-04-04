@@ -224,7 +224,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/beibeifish/",
 		"name": "Bei",
-		"icon": "https://farm6.staticflickr.com/5348/buddyicons/88689546@N02_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7172/buddyicons/88689546@N02_l.jpg",
 		"id": "88689546@N02"
 	},
 	{
@@ -346,6 +346,12 @@
 		"name": "Jesse",
 		"icon": "https://farm8.staticflickr.com/7306/buddyicons/30113283@N08_r.jpg",
 		"id": "30113283@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/sfncook/",
+		"name": "Shawn",
+		"icon": "https://farm8.staticflickr.com/7303/buddyicons/99573471@N04_l.jpg",
+		"id": "99573471@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/knkteja/",
