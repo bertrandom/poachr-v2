@@ -68,7 +68,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/morozgrafix/",
 		"name": "Sergey",
-		"icon": "https://farm4.staticflickr.com/3816/buddyicons/81237759@N00_l.jpg",
+		"icon": "https://farm8.staticflickr.com/7433/buddyicons/81237759@N00_r.jpg",
 		"id": "81237759@N00"
 	},
 	{
@@ -82,12 +82,6 @@
 		"name": "Tim",
 		"icon": "https://farm8.staticflickr.com/7375/buddyicons/49621803@N00_r.jpg",
 		"id": "49621803@N00"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/bradperalta/",
-		"name": "Brad",
-		"icon": "https://farm3.staticflickr.com/2867/buddyicons/61607483@N06_r.jpg",
-		"id": "61607483@N06"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/cortisol/",
