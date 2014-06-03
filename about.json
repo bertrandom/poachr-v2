@@ -392,7 +392,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/gerrypez/",
 		"name": "Gerry",
-		"icon": "https://farm6.staticflickr.com/5492/buddyicons/27801797@N03_l.jpg",
+		"icon": "https://farm3.staticflickr.com/2908/buddyicons/27801797@N03_r.jpg",
 		"id": "27801797@N03"
 	},
 	{
@@ -596,7 +596,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/andyhorn7/",
 		"name": "Andy",
-		"icon": "https://farm1.staticflickr.com/113/buddyicons/69963804@N00.jpg",
+		"icon": "https://farm6.staticflickr.com/5508/buddyicons/69963804@N00_r.jpg",
 		"id": "69963804@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/doupan/",
+		"name": "Doupan",
+		"icon": "https://farm4.staticflickr.com/3776/buddyicons/61726768@N02_r.jpg",
+		"id": "61726768@N02"
 	}
 ]
