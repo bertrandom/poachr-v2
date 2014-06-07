@@ -199,7 +199,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/johnniewalker/",
-		"name": "John",
+		"name": "Lisa",
 		"icon": "https://farm6.staticflickr.com/5445/buddyicons/77923930@N00_r.jpg",
 		"id": "77923930@N00"
 	},
@@ -604,5 +604,11 @@
 		"name": "Doupan",
 		"icon": "https://farm4.staticflickr.com/3776/buddyicons/61726768@N02_r.jpg",
 		"id": "61726768@N02"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/rachelheit/",
+		"name": "Rachel",
+		"icon": "https://farm8.staticflickr.com/7437/buddyicons/100151499@N05_r.jpg",
+		"id": "100151499@N05"
 	}
 ]
