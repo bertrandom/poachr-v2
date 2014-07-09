@@ -428,7 +428,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/gabrieleangeline/",
 		"name": "Gabriele",
-		"icon": "https://farm4.staticflickr.com/3905/buddyicons/9968347@N06_r.jpg",
+		"icon": "https://farm3.staticflickr.com/2908/buddyicons/9968347@N06_r.jpg",
 		"id": "9968347@N06"
 	},
 	{
@@ -598,5 +598,11 @@
 		"name": "Rachel",
 		"icon": "https://farm4.staticflickr.com/3869/buddyicons/100151499@N05_r.jpg",
 		"id": "100151499@N05"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/jeffbargmann/",
+		"name": "Jeff",
+		"icon": "https://farm6.staticflickr.com/5496/buddyicons/40968919@N00_r.jpg",
+		"id": "40968919@N00"
 	}
 ]
