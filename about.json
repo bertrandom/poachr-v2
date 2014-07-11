@@ -296,7 +296,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jtroxel/",
 		"name": "John",
-		"icon": "https://farm8.staticflickr.com/7034/buddyicons/19208979@N00_r.jpg",
+		"icon": "https://farm6.staticflickr.com/5501/buddyicons/19208979@N00_r.jpg",
 		"id": "19208979@N00"
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/hexng888/",
 		"name": "Huy",
-		"icon": "https://farm3.staticflickr.com/2900/buddyicons/100887694@N02_r.jpg",
+		"icon": "https://farm4.staticflickr.com/3845/buddyicons/100887694@N02_r.jpg",
 		"id": "100887694@N02"
 	},
 	{
@@ -538,6 +538,12 @@
 		"name": "Matthew",
 		"icon": "https://farm4.staticflickr.com/3681/buddyicons/98089007@N00_r.jpg",
 		"id": "98089007@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/115771784@N02/",
+		"name": "Gabe",
+		"icon": "https://farm4.staticflickr.com/3849/buddyicons/115771784@N02_r.jpg",
+		"id": "115771784@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/kompfner/",
