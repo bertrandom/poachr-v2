@@ -408,12 +408,6 @@
 		"id": "100886156@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/allisonrowe23/",
-		"name": "Allison",
-		"icon": "https://farm3.staticflickr.com/2894/buddyicons/91037669@N06_r.jpg",
-		"id": "91037669@N06"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/pfischermx/",
 		"name": "Pablo",
 		"icon": "https://farm6.staticflickr.com/5005/buddyicons/56505984@N06.jpg",
@@ -528,6 +522,12 @@
 		"id": "104827732@N04"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/swong221/",
+		"name": "Stan",
+		"icon": "https://farm6.staticflickr.com/5496/buddyicons/108146861@N02_r.jpg",
+		"id": "108146861@N02"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/yipstas/",
 		"name": "Yardley",
 		"icon": "https://farm3.staticflickr.com/2841/buddyicons/106258143@N05_r.jpg",
@@ -638,7 +638,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jcaceres/",
 		"name": "Joel",
-		"icon": "https://farm1.staticflickr.com/25/buddyicons/92382556@N00.jpg",
+		"icon": "https://farm4.staticflickr.com/3861/buddyicons/92382556@N00_r.jpg",
 		"id": "92382556@N00"
 	},
 	{
@@ -658,11 +658,5 @@
 		"name": "Renan",
 		"icon": "https://farm3.staticflickr.com/2928/buddyicons/121601198@N08_r.jpg",
 		"id": "121601198@N08"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/jessiersandler/",
-		"name": "Jessie",
-		"icon": "https://s.yimg.com/pw/images/buddyicon02_r.png#39613902@N04",
-		"id": "39613902@N04"
 	}
 ]
