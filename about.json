@@ -626,7 +626,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/20889257@N06/",
 		"name": "Tarun",
-		"icon": "https://farm6.staticflickr.com/5586/buddyicons/20889257@N06_l.jpg",
+		"icon": "https://farm3.staticflickr.com/2916/buddyicons/20889257@N06_r.jpg",
 		"id": "20889257@N06"
 	},
 	{
@@ -658,5 +658,11 @@
 		"name": "Renan",
 		"icon": "https://farm3.staticflickr.com/2928/buddyicons/121601198@N08_r.jpg",
 		"id": "121601198@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/jessiersandler/",
+		"name": "Jessie",
+		"icon": "https://farm6.staticflickr.com/5583/buddyicons/39613902@N04_l.jpg",
+		"id": "39613902@N04"
 	}
 ]
