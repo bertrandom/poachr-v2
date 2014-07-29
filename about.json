@@ -664,5 +664,11 @@
 		"name": "Jessie",
 		"icon": "https://farm6.staticflickr.com/5583/buddyicons/39613902@N04_l.jpg",
 		"id": "39613902@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/as_pix/",
+		"name": "Alicia",
+		"icon": "https://farm3.staticflickr.com/2934/buddyicons/63819894@N06_r.jpg",
+		"id": "63819894@N06"
 	}
 ]
