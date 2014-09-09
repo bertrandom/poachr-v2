@@ -646,5 +646,11 @@
 		"name": "Barry",
 		"icon": "https://farm4.staticflickr.com/3685/buddyicons/52336135@N06_r.jpg",
 		"id": "52336135@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/kevintu/",
+		"name": "Kevin",
+		"icon": "https://farm8.staticflickr.com/7367/buddyicons/33419694@N02_r.jpg",
+		"id": "33419694@N02"
 	}
 ]
