@@ -658,5 +658,11 @@
 		"name": "Kevin",
 		"icon": "https://farm8.staticflickr.com/7367/buddyicons/33419694@N02_r.jpg",
 		"id": "33419694@N02"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/hc5duke/",
+		"name": "Hwan-Joon",
+		"icon": "https://farm1.staticflickr.com/16/buddyicons/56533891@N00.jpg",
+		"id": "56533891@N00"
 	}
 ]
