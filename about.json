@@ -85,7 +85,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/dokas/",
-		"name": "Phil",
+		"name": "Philp",
 		"icon": "https://farm8.staticflickr.com/7456/buddyicons/36521981547@N01_r.jpg",
 		"id": "36521981547@N01"
 	},
@@ -248,7 +248,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/shaunners/",
 		"name": "Shaun",
-		"icon": "https://farm3.staticflickr.com/2926/buddyicons/76581536@N03_r.jpg",
+		"icon": "https://farm4.staticflickr.com/3853/buddyicons/76581536@N03_r.jpg",
 		"id": "76581536@N03"
 	},
 	{
@@ -304,12 +304,6 @@
 		"name": "Marc",
 		"icon": "https://farm4.staticflickr.com/3729/buddyicons/32984039@N00_r.jpg",
 		"id": "32984039@N00"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/30113283@N08/",
-		"name": "Jesse",
-		"icon": "https://farm3.staticflickr.com/2900/buddyicons/30113283@N08_r.jpg",
-		"id": "30113283@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/sfncook/",
