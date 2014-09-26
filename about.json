@@ -612,12 +612,6 @@
 		"id": "92382556@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/adityavr/",
-		"name": "Aditya",
-		"icon": "https://farm4.staticflickr.com/3895/buddyicons/126184467@N06_r.jpg",
-		"id": "126184467@N06"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/mrintellectual/",
 		"name": "Frank",
 		"icon": "https://farm4.staticflickr.com/3924/buddyicons/125547504@N02_r.jpg",
@@ -658,5 +652,11 @@
 		"name": "Hwan-Joon",
 		"icon": "https://farm1.staticflickr.com/16/buddyicons/56533891@N00.jpg",
 		"id": "56533891@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/95726742@N03/",
+		"name": "Xanthe",
+		"icon": "https://farm8.staticflickr.com/7284/buddyicons/95726742@N03_r.jpg",
+		"id": "95726742@N03"
 	}
 ]
