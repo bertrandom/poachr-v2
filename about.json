@@ -186,12 +186,6 @@
 		"id": "88689546@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/anya_flickr/",
-		"name": "Anna",
-		"icon": "https://farm8.staticflickr.com/7383/buddyicons/12318090@N03_r.jpg",
-		"id": "12318090@N03"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/mikewux2/",
 		"name": "Mike",
 		"icon": "https://farm8.staticflickr.com/7351/buddyicons/55232522@N00_r.jpg",
@@ -250,6 +244,12 @@
 		"name": "Juliet",
 		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
 		"id": "63652802@N02"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/ruth_martin/",
+		"name": "Ruth",
+		"icon": "https://farm4.staticflickr.com/3707/buddyicons/34708854@N00_r.jpg",
+		"id": "34708854@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/tenz1225/",
@@ -512,7 +512,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/yipstas/",
 		"name": "Yardley",
-		"icon": "https://farm3.staticflickr.com/2841/buddyicons/106258143@N05_r.jpg",
+		"icon": "https://farm4.staticflickr.com/3943/buddyicons/106258143@N05_r.jpg",
 		"id": "106258143@N05"
 	},
 	{
@@ -672,7 +672,7 @@
 		"id": "56533891@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/95726742@N03/",
+		"photostream": "https://www.flickr.com/photos/xanthet/",
 		"name": "Xanthe",
 		"icon": "https://farm8.staticflickr.com/7284/buddyicons/95726742@N03_r.jpg",
 		"id": "95726742@N03"
