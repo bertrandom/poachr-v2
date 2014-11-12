@@ -718,5 +718,11 @@
 		"name": "Nina",
 		"icon": "https://farm8.staticflickr.com/7464/buddyicons/128497311@N08_r.jpg",
 		"id": "128497311@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/memimo/",
+		"name": "Mehdi",
+		"icon": "https://farm4.staticflickr.com/3888/buddyicons/19421244@N00_r.jpg",
+		"id": "19421244@N00"
 	}
 ]
