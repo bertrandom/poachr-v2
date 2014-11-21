@@ -730,5 +730,11 @@
 		"name": "Rachel",
 		"icon": "https://farm6.staticflickr.com/5602/buddyicons/128665140@N05_r.jpg",
 		"id": "128665140@N05"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/95900062@N05/",
+		"name": "Anshul",
+		"icon": "https://farm6.staticflickr.com/5615/buddyicons/95900062@N05_l.jpg",
+		"id": "95900062@N05"
 	}
 ]
