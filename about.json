@@ -638,7 +638,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/52336135@N06/",
 		"name": "Barry",
-		"icon": "https://farm4.staticflickr.com/3934/buddyicons/52336135@N06_l.jpg",
+		"icon": "https://farm8.staticflickr.com/7557/buddyicons/52336135@N06_r.jpg",
 		"id": "52336135@N06"
 	},
 	{
@@ -730,5 +730,11 @@
 		"name": "Marta",
 		"icon": "https://farm6.staticflickr.com/5613/buddyicons/40486853@N04_r.jpg",
 		"id": "40486853@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/124876517@N03/",
+		"name": "Pouria",
+		"icon": "https://farm8.staticflickr.com/7578/buddyicons/124876517@N03_r.jpg",
+		"id": "124876517@N03"
 	}
 ]
