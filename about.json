@@ -157,7 +157,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/tague/",
-		"name": "Tague",
+		"name": "Hashtague",
 		"icon": "https://farm3.staticflickr.com/2928/buddyicons/33843011@N00_r.jpg",
 		"id": "33843011@N00"
 	},
@@ -376,12 +376,6 @@
 		"name": "Tobias",
 		"icon": "https://farm3.staticflickr.com/2901/buddyicons/96047353@N04_r.jpg",
 		"id": "96047353@N04"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/gabrieleangeline/",
-		"name": "Gabriele",
-		"icon": "https://farm4.staticflickr.com/3884/buddyicons/9968347@N06_r.jpg",
-		"id": "9968347@N06"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/darsh_mehta/",
