@@ -78,9 +78,9 @@
 		"id": "67739563@N04"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/73443341@N03/",
+		"photostream": "https://www.flickr.com/photos/-solene-/",
 		"name": "Solène ",
-		"icon": "https://farm3.staticflickr.com/2865/buddyicons/73443341@N03_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7357/buddyicons/73443341@N03_r.jpg",
 		"id": "73443341@N03"
 	},
 	{
@@ -208,12 +208,6 @@
 		"name": "Alex",
 		"icon": "https://farm4.staticflickr.com/3856/buddyicons/91720879@N02_r.jpg",
 		"id": "91720879@N02"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/92660732@N03/",
-		"name": "Ryan",
-		"icon": "https://farm6.staticflickr.com/5526/buddyicons/92660732@N03_r.jpg",
-		"id": "92660732@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/shaunners/",
@@ -630,6 +624,12 @@
 		"id": "40439806@N07"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/artesinpiedad/",
+		"name": "Cristina",
+		"icon": "https://farm1.staticflickr.com/161/buddyicons/62715747@N00.jpg",
+		"id": "62715747@N00"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/52336135@N06/",
 		"name": "Barry",
 		"icon": "https://farm8.staticflickr.com/7557/buddyicons/52336135@N06_r.jpg",
@@ -646,6 +646,12 @@
 		"name": "Hwan-Joon",
 		"icon": "https://farm6.staticflickr.com/5601/buddyicons/56533891@N00_r.jpg",
 		"id": "56533891@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/caroladipoi/",
+		"name": "Carola",
+		"icon": "https://farm3.staticflickr.com/2942/buddyicons/127455971@N04_r.jpg",
+		"id": "127455971@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/xanthet/",
@@ -692,7 +698,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/ninamenconiphoto/",
 		"name": "Nina",
-		"icon": "https://farm8.staticflickr.com/7508/buddyicons/128497311@N08_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7331/buddyicons/128497311@N08_r.jpg",
 		"id": "128497311@N08"
 	},
 	{
@@ -712,6 +718,12 @@
 		"name": "Dimple",
 		"icon": "https://farm8.staticflickr.com/7461/buddyicons/129570125@N04_r.jpg",
 		"id": "129570125@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/kimmetzger/",
+		"name": "Kim",
+		"icon": "https://farm8.staticflickr.com/7514/buddyicons/129821724@N08_r.jpg",
+		"id": "129821724@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/martabee/",
@@ -756,9 +768,15 @@
 		"id": "26175705@N05"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/44109083@N07/",
+		"photostream": "https://www.flickr.com/photos/skamalas/",
 		"name": "Yannis",
 		"icon": "https://farm3.staticflickr.com/2863/buddyicons/44109083@N07_r.jpg",
 		"id": "44109083@N07"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/marinaforte/",
+		"name": "Marina",
+		"icon": "https://farm8.staticflickr.com/7287/buddyicons/28478015@N04_l.jpg",
+		"id": "28478015@N04"
 	}
 ]
