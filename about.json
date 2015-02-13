@@ -6,12 +6,6 @@
 		"id": "60065287@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/wafer/",
-		"name": "Daniel",
-		"icon": "https://farm3.staticflickr.com/2850/buddyicons/51035718466@N01_l.jpg",
-		"id": "51035718466@N01"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/cjmartin/",
 		"name": "Chris",
 		"icon": "https://farm4.staticflickr.com/3933/buddyicons/42982698@N00_r.jpg",
@@ -49,7 +43,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/cortisol/",
-		"name": "Matty J",
+		"name": "Matt",
 		"icon": "https://farm3.staticflickr.com/2850/buddyicons/64665527@N02_r.jpg",
 		"id": "64665527@N02"
 	},
@@ -103,7 +97,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/saimad/",
-		"name": "Sai",
+		"name": "Sai Mad",
 		"icon": "https://farm8.staticflickr.com/7385/buddyicons/33384077@N00_r.jpg",
 		"id": "33384077@N00"
 	},
@@ -262,12 +256,6 @@
 		"name": "Travis",
 		"icon": "https://farm4.staticflickr.com/3833/buddyicons/98716777@N05_r.jpg",
 		"id": "98716777@N05"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/notnil/",
-		"name": "Marc",
-		"icon": "https://farm4.staticflickr.com/3729/buddyicons/32984039@N00_r.jpg",
-		"id": "32984039@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/sfncook/",
@@ -578,7 +566,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/davefearon/",
 		"name": "Dave",
-		"icon": "https://farm8.staticflickr.com/7572/buddyicons/24858431@N07_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7373/buddyicons/24858431@N07_r.jpg",
 		"id": "24858431@N07"
 	},
 	{
@@ -746,7 +734,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/cati/",
 		"name": "Cati",
-		"icon": "https://farm1.staticflickr.com/24/buddyicons/34569733@N00.jpg",
+		"icon": "https://farm8.staticflickr.com/7393/buddyicons/34569733@N00_l.jpg",
 		"id": "34569733@N00"
 	},
 	{
