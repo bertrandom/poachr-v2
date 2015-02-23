@@ -206,7 +206,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/shaunners/",
 		"name": "Shaun",
-		"icon": "https://farm4.staticflickr.com/3853/buddyicons/76581536@N03_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7433/buddyicons/76581536@N03_r.jpg",
 		"id": "76581536@N03"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/captin_nod/",
-		"name": "Hat",
+		"name": "Bhautik",
 		"icon": "https://farm4.staticflickr.com/3822/buddyicons/50847591@N00_r.jpg",
 		"id": "50847591@N00"
 	},
@@ -766,5 +766,11 @@
 		"name": "Marina",
 		"icon": "https://farm8.staticflickr.com/7287/buddyicons/28478015@N04_l.jpg",
 		"id": "28478015@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/124619700@N04/",
+		"name": "Asavir",
+		"icon": "https://farm8.staticflickr.com/7327/buddyicons/124619700@N04_l.jpg",
+		"id": "124619700@N04"
 	}
 ]
