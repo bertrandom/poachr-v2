@@ -86,7 +86,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/mutsubu/",
 		"name": "Mutsubu",
-		"icon": "https://farm9.staticflickr.com/8576/buddyicons/77931770@N03_r.jpg",
+		"icon": "https://farm9.staticflickr.com/8565/buddyicons/77931770@N03_r.jpg",
 		"id": "77931770@N03"
 	},
 	{
@@ -354,12 +354,6 @@
 		"id": "96047353@N04"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/darsh_mehta/",
-		"name": "Darshan",
-		"icon": "https://farm8.staticflickr.com/7326/buddyicons/77818404@N00_r.jpg",
-		"id": "77818404@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/104159205@N05/",
 		"name": "Kelly",
 		"icon": "https://farm3.staticflickr.com/2855/buddyicons/104159205@N05_l.jpg",
@@ -402,12 +396,6 @@
 		"id": "100380622@N03"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/grimlor/",
-		"name": "Ethan",
-		"icon": "https://farm8.staticflickr.com/7514/buddyicons/108475195@N05_r.jpg",
-		"id": "108475195@N05"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/jabwemet/",
 		"name": "Aditya",
 		"icon": "https://farm4.staticflickr.com/3705/buddyicons/58232860@N05_r.jpg",
@@ -446,7 +434,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/101013608@N06/",
 		"name": "Helin",
-		"icon": "https://farm6.staticflickr.com/5343/buddyicons/101013608@N06_r.jpg",
+		"icon": "https://farm9.staticflickr.com/8749/buddyicons/101013608@N06_r.jpg",
 		"id": "101013608@N06"
 	},
 	{
@@ -470,7 +458,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/115771784@N02/",
 		"name": "Dartlover",
-		"icon": "https://farm8.staticflickr.com/7491/buddyicons/115771784@N02_r.jpg",
+		"icon": "https://farm9.staticflickr.com/8660/buddyicons/115771784@N02_r.jpg",
 		"id": "115771784@N02"
 	},
 	{
@@ -486,7 +474,7 @@
 		"id": "49743098@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/65138431@N00/",
+		"photostream": "https://www.flickr.com/photos/mlegarte/",
 		"name": "Marc",
 		"icon": "https://farm3.staticflickr.com/2891/buddyicons/65138431@N00_r.jpg",
 		"id": "65138431@N00"
@@ -614,13 +602,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/kevintu/",
 		"name": "Kevin",
-		"icon": "https://farm8.staticflickr.com/7367/buddyicons/33419694@N02_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7597/buddyicons/33419694@N02_r.jpg",
 		"id": "33419694@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/hc5duke/",
 		"name": "Hwan-Joon",
-		"icon": "https://farm9.staticflickr.com/8661/buddyicons/56533891@N00_l.jpg",
+		"icon": "https://farm9.staticflickr.com/8639/buddyicons/56533891@N00_l.jpg",
 		"id": "56533891@N00"
 	},
 	{
@@ -650,17 +638,17 @@
 	{
 		"photostream": "https://www.flickr.com/photos/norbertpotocki/",
 		"name": "Norbert",
-		"icon": "https://farm3.staticflickr.com/2946/buddyicons/119884966@N08_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7624/buddyicons/119884966@N08_l.jpg",
 		"id": "119884966@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/seantchapman/",
 		"name": "Sean",
-		"icon": "https://farm4.staticflickr.com/3947/buddyicons/93613507@N06_r.jpg",
+		"icon": "https://farm9.staticflickr.com/8656/buddyicons/93613507@N06_r.jpg",
 		"id": "93613507@N06"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/93221186@N02/",
+		"photostream": "https://www.flickr.com/photos/lfernandosp/",
 		"name": "Fernando",
 		"icon": "https://farm4.staticflickr.com/3773/buddyicons/93221186@N02_r.jpg",
 		"id": "93221186@N02"
@@ -770,7 +758,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/129426405@N08/",
 		"name": "Srikanth",
-		"icon": "https://farm9.staticflickr.com/8565/buddyicons/129426405@N08_r.jpg",
+		"icon": "https://farm9.staticflickr.com/8598/buddyicons/129426405@N08_r.jpg",
 		"id": "129426405@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/128860052@N04/",
+		"name": "Mehul",
+		"icon": "https://farm8.staticflickr.com/7616/buddyicons/128860052@N04_r.jpg",
+		"id": "128860052@N04"
 	}
 ]
