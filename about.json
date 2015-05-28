@@ -736,5 +736,17 @@
 		"name": "Leticia",
 		"icon": "https://farm9.staticflickr.com/8590/buddyicons/130405532@N06_l.jpg",
 		"id": "130405532@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/devpriyadave/",
+		"name": "Devpriya",
+		"icon": "https://farm9.staticflickr.com/8800/buddyicons/132613506@N02_r.jpg",
+		"id": "132613506@N02"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/vikuk/",
+		"name": "Vikas",
+		"icon": "https://farm9.staticflickr.com/8875/buddyicons/132672261@N08_r.jpg",
+		"id": "132672261@N08"
 	}
 ]
