@@ -296,7 +296,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/gerrypez/",
 		"name": "Gerry",
-		"icon": "https://farm3.staticflickr.com/2933/buddyicons/27801797@N03_r.jpg",
+		"icon": "https://farm1.staticflickr.com/264/buddyicons/27801797@N03_r.jpg",
 		"id": "27801797@N03"
 	},
 	{
@@ -361,7 +361,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/ericsoco/",
-		"name": "Steve Beethoven",
+		"name": "Eric",
 		"icon": "https://farm4.staticflickr.com/3745/buddyicons/34427466510@N01_l.jpg",
 		"id": "34427466510@N01"
 	},
@@ -748,5 +748,17 @@
 		"name": "Mayank",
 		"icon": "https://farm9.staticflickr.com/8884/buddyicons/10828832@N03_r.jpg",
 		"id": "10828832@N03"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/dantasse/",
+		"name": "Dan",
+		"icon": "https://farm1.staticflickr.com/360/buddyicons/32688114@N05_r.jpg",
+		"id": "32688114@N05"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/skairam/",
+		"name": "Sanjay",
+		"icon": "https://farm1.staticflickr.com/366/buddyicons/27333839@N03_m.jpg",
+		"id": "27333839@N03"
 	}
 ]
