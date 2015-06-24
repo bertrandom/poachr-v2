@@ -296,7 +296,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/gerrypez/",
 		"name": "Gerry",
-		"icon": "https://farm1.staticflickr.com/264/buddyicons/27801797@N03_r.jpg",
+		"icon": "https://farm4.staticflickr.com/3702/buddyicons/27801797@N03_r.jpg",
 		"id": "27801797@N03"
 	},
 	{
@@ -760,5 +760,29 @@
 		"name": "Sanjay",
 		"icon": "https://farm1.staticflickr.com/366/buddyicons/27333839@N03_m.jpg",
 		"id": "27333839@N03"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/mayurmudigonda/",
+		"name": "Mayur",
+		"icon": "https://farm3.staticflickr.com/2226/buddyicons/81339802@N00.jpg",
+		"id": "81339802@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/dpaiton/",
+		"name": "Dylan",
+		"icon": "https://farm1.staticflickr.com/396/buddyicons/132975840@N06_r.jpg",
+		"id": "132975840@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/132520533@N07/",
+		"name": "Frank",
+		"icon": "https://farm1.staticflickr.com/261/buddyicons/132520533@N07_r.jpg",
+		"id": "132520533@N07"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/130712982@N07/",
+		"name": "Chen-Yu",
+		"icon": "https://farm8.staticflickr.com/7489/buddyicons/130712982@N07_r.jpg",
+		"id": "130712982@N07"
 	}
 ]
