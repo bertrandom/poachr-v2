@@ -222,6 +222,12 @@
 		"id": "22848124@N00"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/97951231@N05/",
+		"name": "Joseph",
+		"icon": "https://farm1.staticflickr.com/363/buddyicons/97951231@N05_r.jpg",
+		"id": "97951231@N05"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/yelu/",
 		"name": "Ye",
 		"icon": "https://farm4.staticflickr.com/3819/buddyicons/87805488@N00_r.jpg",
@@ -782,7 +788,19 @@
 	{
 		"photostream": "https://www.flickr.com/photos/130712982@N07/",
 		"name": "Chen-Yu",
-		"icon": "https://farm8.staticflickr.com/7489/buddyicons/130712982@N07_r.jpg",
+		"icon": "https://farm1.staticflickr.com/429/buddyicons/130712982@N07_r.jpg",
 		"id": "130712982@N07"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/jpintado/",
+		"name": "Jorge",
+		"icon": "https://farm3.staticflickr.com/2950/buddyicons/116310765@N06_r.jpg",
+		"id": "116310765@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/97951231@N05/",
+		"name": "Joseph",
+		"icon": "https://farm1.staticflickr.com/363/buddyicons/97951231@N05_r.jpg",
+		"id": "97951231@N05"
 	}
 ]
