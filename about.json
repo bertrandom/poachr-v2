@@ -138,12 +138,6 @@
 		"id": "40734839@N04"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/tague/",
-		"name": "Hashtague",
-		"icon": "https://farm3.staticflickr.com/2928/buddyicons/33843011@N00_r.jpg",
-		"id": "33843011@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/beibeifish/",
 		"name": "Bei",
 		"icon": "https://farm9.staticflickr.com/8790/buddyicons/88689546@N02_r.jpg",
@@ -218,7 +212,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/97951231@N05/",
 		"name": "Joseph",
-		"icon": "https://farm1.staticflickr.com/363/buddyicons/97951231@N05_r.jpg",
+		"icon": "https://farm1.staticflickr.com/740/buddyicons/97951231@N05_r.jpg",
 		"id": "97951231@N05"
 	},
 	{
@@ -528,12 +522,6 @@
 		"id": "40439806@N07"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/artesinpiedad/",
-		"name": "Cristina",
-		"icon": "https://farm1.staticflickr.com/161/buddyicons/62715747@N00.jpg",
-		"id": "62715747@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/kevintu/",
 		"name": "Kevin",
 		"icon": "https://farm9.staticflickr.com/8740/buddyicons/33419694@N02_r.jpg",
@@ -760,5 +748,11 @@
 		"name": "Chris",
 		"icon": "https://farm1.staticflickr.com/386/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/134819568@N02/",
+		"name": "Blake",
+		"icon": "https://s.yimg.com/pw/images/buddyicon08_r.png#134819568@N02",
+		"id": "134819568@N02"
 	}
 ]
