@@ -132,12 +132,6 @@
 		"id": "88689546@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/mikewux2/",
-		"name": "Mike",
-		"icon": "https://farm8.staticflickr.com/7351/buddyicons/55232522@N00_r.jpg",
-		"id": "55232522@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/epytech/",
 		"name": "Gerard",
 		"icon": "https://farm6.staticflickr.com/5037/buddyicons/78522870@N07_r.jpg",
@@ -200,7 +194,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/97951231@N05/",
 		"name": "Joseph",
-		"icon": "https://farm1.staticflickr.com/740/buddyicons/97951231@N05_r.jpg",
+		"icon": "https://farm1.staticflickr.com/637/buddyicons/97951231@N05_r.jpg",
 		"id": "97951231@N05"
 	},
 	{
@@ -260,7 +254,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/gerrypez/",
 		"name": "Gerry",
-		"icon": "https://farm4.staticflickr.com/3702/buddyicons/27801797@N03_r.jpg",
+		"icon": "https://farm6.staticflickr.com/5684/buddyicons/27801797@N03_r.jpg",
 		"id": "27801797@N03"
 	},
 	{
@@ -428,7 +422,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/davefearon/",
 		"name": "The Beard",
-		"icon": "https://farm8.staticflickr.com/7687/buddyicons/24858431@N07_r.jpg",
+		"icon": "https://farm1.staticflickr.com/707/buddyicons/24858431@N07_r.jpg",
 		"id": "24858431@N07"
 	},
 	{
@@ -522,6 +516,12 @@
 		"id": "129570125@N04"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/martabee/",
+		"name": "Marta",
+		"icon": "https://farm6.staticflickr.com/5613/buddyicons/40486853@N04_r.jpg",
+		"id": "40486853@N04"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/pourias/",
 		"name": "Pouria",
 		"icon": "https://farm8.staticflickr.com/7695/buddyicons/124876517@N03_r.jpg",
@@ -550,12 +550,6 @@
 		"name": "Yannis",
 		"icon": "https://farm3.staticflickr.com/2863/buddyicons/44109083@N07_r.jpg",
 		"id": "44109083@N07"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/124619700@N04/",
-		"name": "Asavir",
-		"icon": "https://farm8.staticflickr.com/7327/buddyicons/124619700@N04_l.jpg",
-		"id": "124619700@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/129426405@N08/",
