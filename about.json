@@ -13,7 +13,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/rubixdead/",
-		"name": "Tyler",
+		"name": "Chris",
 		"icon": "https://farm8.staticflickr.com/7328/buddyicons/34994084@N00_r.jpg",
 		"id": "34994084@N00"
 	},
@@ -234,12 +234,6 @@
 		"id": "56081999@N07"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/arelc/",
-		"name": "Arel",
-		"icon": "https://farm9.staticflickr.com/8760/buddyicons/66569704@N03_r.jpg",
-		"id": "66569704@N03"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/hexng888/",
 		"name": "Huy",
 		"icon": "https://farm4.staticflickr.com/3845/buddyicons/100887694@N02_r.jpg",
@@ -415,7 +409,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/davefearon/",
-		"name": "The Beard",
+		"name": "Beardless Dave",
 		"icon": "https://farm1.staticflickr.com/707/buddyicons/24858431@N07_r.jpg",
 		"id": "24858431@N07"
 	},
@@ -583,7 +577,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/lankro/",
-		"name": "Chris",
+		"name": "Other Chris",
 		"icon": "https://farm1.staticflickr.com/386/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
 	},
