@@ -32,7 +32,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/dokas/",
 		"name": "Phil",
-		"icon": "https://farm6.staticflickr.com/5816/buddyicons/36521981547@N01_r.jpg",
+		"icon": "https://farm2.staticflickr.com/1574/buddyicons/36521981547@N01_l.jpg",
 		"id": "36521981547@N01"
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/alex-seville/",
 		"name": "Alex",
-		"icon": "https://farm8.staticflickr.com/7631/buddyicons/91720879@N02_l.jpg",
+		"icon": "https://farm2.staticflickr.com/1543/buddyicons/91720879@N02_r.jpg",
 		"id": "91720879@N02"
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/robinhess/",
 		"name": "Rob",
-		"icon": "https://farm4.staticflickr.com/3931/buddyicons/43106033@N02_r.jpg",
+		"icon": "https://farm2.staticflickr.com/1595/buddyicons/43106033@N02_r.jpg",
 		"id": "43106033@N02"
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jeremyruppel/",
 		"name": "Jeremy",
-		"icon": "https://farm3.staticflickr.com/2921/buddyicons/28240581@N05_r.jpg",
+		"icon": "https://farm2.staticflickr.com/1647/buddyicons/28240581@N05_s.jpg",
 		"id": "28240581@N05"
 	},
 	{
@@ -340,12 +340,6 @@
 		"name": "Jeff",
 		"icon": "https://farm9.staticflickr.com/8633/buddyicons/40968919@N00_r.jpg",
 		"id": "40968919@N00"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/davefearon/",
-		"name": "Beardless Dave",
-		"icon": "https://farm1.staticflickr.com/707/buddyicons/24858431@N07_r.jpg",
-		"id": "24858431@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/20889257@N06/",
