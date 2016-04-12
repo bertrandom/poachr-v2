@@ -36,12 +36,6 @@
 		"id": "36521981547@N01"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/bertrandom/",
-		"name": "Bertrand",
-		"icon": "https://farm4.staticflickr.com/3780/buddyicons/61091860@N00_r.jpg",
-		"id": "61091860@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/slp23/",
 		"name": "Sean",
 		"icon": "https://farm4.staticflickr.com/3101/buddyicons/46696356@N00.jpg",
@@ -73,7 +67,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/johnko/",
-		"name": "John",
+		"name": "jko",
 		"icon": "https://farm8.staticflickr.com/7282/buddyicons/80827319@N00_r.jpg",
 		"id": "80827319@N00"
 	},
@@ -246,12 +240,6 @@
 		"id": "28240581@N05"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/sameermahmood/",
-		"name": "Sameer",
-		"icon": "https://farm4.staticflickr.com/3711/buddyicons/51203960@N03_r.jpg",
-		"id": "51203960@N03"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/135575480@N02/",
 		"name": "Stan",
 		"icon": "https://farm1.staticflickr.com/745/buddyicons/135575480@N02_l.jpg",
@@ -262,12 +250,6 @@
 		"name": "Mugdha",
 		"icon": "https://farm6.staticflickr.com/5488/buddyicons/36701349@N08_l.jpg",
 		"id": "36701349@N08"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/ayan_ray/",
-		"name": "Ayan",
-		"icon": "https://farm8.staticflickr.com/7704/buddyicons/127711677@N03_r.jpg",
-		"id": "127711677@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/matthewalmonroth/",
@@ -372,12 +354,6 @@
 		"id": "129570125@N04"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/pourias/",
-		"name": "Pouria",
-		"icon": "https://farm8.staticflickr.com/7695/buddyicons/124876517@N03_r.jpg",
-		"id": "124876517@N03"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/skamalas/",
 		"name": "Yannis",
 		"icon": "https://farm3.staticflickr.com/2863/buddyicons/44109083@N07_r.jpg",
@@ -454,5 +430,11 @@
 		"name": "Maysamm",
 		"icon": "https://farm2.staticflickr.com/1489/buddyicons/141095954@N04_r.jpg",
 		"id": "141095954@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/139934123@N05/",
+		"name": "Kofi",
+		"icon": "https://s.yimg.com/pw/images/buddyicon11_r.png#139934123@N05",
+		"id": "139934123@N05"
 	}
 ]
