@@ -236,8 +236,14 @@
 	{
 		"photostream": "https://www.flickr.com/photos/seantaylorchapman/",
 		"name": "STC",
-		"icon": "https://farm4.staticflickr.com/3698/buddyicons/93613507@N06_r.jpg",
+		"icon": "https://farm3.staticflickr.com/2926/buddyicons/93613507@N06_r.jpg",
 		"id": "93613507@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/amyandhercamera/",
+		"name": "Amy",
+		"icon": "https://farm6.staticflickr.com/5496/buddyicons/67120086@N07_r.jpg",
+		"id": "67120086@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/leticiaroncero/",
@@ -366,12 +372,6 @@
 		"id": "81822911@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/148490259@N02/",
-		"name": "catfedex",
-		"icon": "https://farm4.staticflickr.com/3755/buddyicons/148490259@N02_r.jpg",
-		"id": "148490259@N02"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/142423916@N07/",
 		"name": "Monica",
 		"icon": "https://farm2.staticflickr.com/1633/buddyicons/142423916@N07_r.jpg",
@@ -382,5 +382,11 @@
 		"name": "Gadget Dog",
 		"icon": "https://farm4.staticflickr.com/3857/buddyicons/153465125@N05_r.jpg",
 		"id": "153465125@N05"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/154030445@N07/",
+		"name": "Surendar",
+		"icon": "https://s.yimg.com/pw/images/buddyicon09_r.png#154030445@N07",
+		"id": "154030445@N07"
 	}
 ]
