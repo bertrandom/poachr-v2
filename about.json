@@ -96,12 +96,6 @@
 		"id": "63652802@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/ngattani/",
-		"name": "Nilesh",
-		"icon": "https://farm2.staticflickr.com/1256/buddyicons/22848124@N00.jpg",
-		"id": "22848124@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/sfncook/",
 		"name": "Shawn",
 		"icon": "https://farm8.staticflickr.com/7303/buddyicons/99573471@N04_l.jpg",
@@ -289,7 +283,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/radjor/",
-		"name": "Bananas",
+		"name": "Jordan \"The Bananas\"",
 		"icon": "https://farm8.staticflickr.com/7602/buddyicons/95937806@N05_r.jpg",
 		"id": "95937806@N05"
 	},
@@ -360,18 +354,6 @@
 		"id": "98592705@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/warmsun/",
-		"name": "Spencer",
-		"icon": "https://farm1.staticflickr.com/620/buddyicons/38919529@N05_r.jpg",
-		"id": "38919529@N05"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/jamiecristal/",
-		"name": "Jammies",
-		"icon": "https://farm4.staticflickr.com/3704/buddyicons/81822911@N00_r.jpg",
-		"id": "81822911@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/142423916@N07/",
 		"name": "Monica",
 		"icon": "https://farm2.staticflickr.com/1633/buddyicons/142423916@N07_r.jpg",
@@ -386,7 +368,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/154030445@N07/",
 		"name": "Surendar",
-		"icon": "https://s.yimg.com/pw/images/buddyicon09_r.png#154030445@N07",
+		"icon": "https://farm3.staticflickr.com/2818/buddyicons/154030445@N07_r.jpg",
 		"id": "154030445@N07"
 	}
 ]
