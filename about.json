@@ -12,6 +12,12 @@
 		"id": "42982698@N00"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/57286655@N00/",
+		"name": "Joanna",
+		"icon": "https://farm3.staticflickr.com/2856/buddyicons/57286655@N00_r.jpg",
+		"id": "57286655@N00"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/peterwelch/",
 		"name": "Swarm-cheater",
 		"icon": "https://farm4.staticflickr.com/3741/buddyicons/46623443@N00_r.jpg",
@@ -91,13 +97,13 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/julietbutterfield/",
-		"name": "Juliet",
+		"name": "Founder",
 		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
 		"id": "63652802@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/sfncook/",
-		"name": "Shawn",
+		"name": "Angel Investor",
 		"icon": "https://farm8.staticflickr.com/7303/buddyicons/99573471@N04_l.jpg",
 		"id": "99573471@N04"
 	},
@@ -148,12 +154,6 @@
 		"name": "The Guardsman",
 		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/pumpikano/",
-		"name": "Clayton",
-		"icon": "https://farm8.staticflickr.com/7715/buddyicons/55029388@N03_r.jpg",
-		"id": "55029388@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/metaphdor/",
@@ -325,7 +325,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/145083312@N05/",
-		"name": "Louis",
+		"name": "The Chemist",
 		"icon": "https://farm9.staticflickr.com/8220/buddyicons/145083312@N05_m.jpg",
 		"id": "145083312@N05"
 	},
