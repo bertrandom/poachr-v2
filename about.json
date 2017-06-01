@@ -12,12 +12,6 @@
 		"id": "42982698@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/57286655@N00/",
-		"name": "Joanna",
-		"icon": "https://farm3.staticflickr.com/2856/buddyicons/57286655@N00_r.jpg",
-		"id": "57286655@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/peterwelch/",
 		"name": "Swarm-cheater",
 		"icon": "https://farm4.staticflickr.com/3741/buddyicons/46623443@N00_r.jpg",
@@ -58,12 +52,6 @@
 		"name": "Ben",
 		"icon": "https://farm4.staticflickr.com/3668/buddyicons/11797544@N05_r.jpg",
 		"id": "11797544@N05"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/johnko/",
-		"name": "jko",
-		"icon": "https://farm8.staticflickr.com/7282/buddyicons/80827319@N00_r.jpg",
-		"id": "80827319@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/beckyburwell/",
@@ -376,5 +364,17 @@
 		"name": "Francesco",
 		"icon": "https://farm4.staticflickr.com/3667/buddyicons/49087126@N08_r.jpg",
 		"id": "49087126@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/148368760@N02/",
+		"name": "Gabe",
+		"icon": "https://farm5.staticflickr.com/4248/buddyicons/148368760@N02_r.jpg",
+		"id": "148368760@N02"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/57286655@N00/",
+		"name": "Joanna",
+		"icon": "https://farm3.staticflickr.com/2856/buddyicons/57286655@N00_r.jpg",
+		"id": "57286655@N00"
 	}
 ]
