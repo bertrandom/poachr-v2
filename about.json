@@ -376,5 +376,11 @@
 		"name": "Joanna",
 		"icon": "https://farm3.staticflickr.com/2856/buddyicons/57286655@N00_r.jpg",
 		"id": "57286655@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/jtroxel/",
+		"name": "John",
+		"icon": "https://farm6.staticflickr.com/5612/buddyicons/19208979@N00_r.jpg",
+		"id": "19208979@N00"
 	}
 ]
