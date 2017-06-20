@@ -218,14 +218,8 @@
 	{
 		"photostream": "https://www.flickr.com/photos/seantaylorchapman/",
 		"name": "STC",
-		"icon": "https://farm3.staticflickr.com/2926/buddyicons/93613507@N06_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4249/buddyicons/93613507@N06_r.jpg",
 		"id": "93613507@N06"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/amyandhercamera/",
-		"name": "Amy",
-		"icon": "https://farm6.staticflickr.com/5496/buddyicons/67120086@N07_r.jpg",
-		"id": "67120086@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/leticiaroncero/",
@@ -250,12 +244,6 @@
 		"name": "Regular Chris",
 		"icon": "https://farm1.staticflickr.com/386/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/justinjkim/",
-		"name": "Justin",
-		"icon": "https://farm6.staticflickr.com/5734/buddyicons/37948257@N02_r.jpg",
-		"id": "37948257@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/mayssams/",
