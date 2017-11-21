@@ -282,6 +282,12 @@
 		"id": "67316986@N00"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/145857374@N02/",
+		"name": "Lannie",
+		"icon": "https://farm1.staticflickr.com/423/buddyicons/145857374@N02_r.jpg",
+		"id": "145857374@N02"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/98592705@N02/",
 		"name": "Mathan",
 		"icon": "https://farm9.staticflickr.com/8657/buddyicons/98592705@N02_r.jpg",
@@ -339,5 +345,11 @@
 		"photostream": "https://www.flickr.com/photos//",
 		"name": "Khushboo",
 		"icon": "https://s.yimg.com/pw/images/buddyicon00_r.png"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/jaewoosong/",
+		"name": "Jaewoo",
+		"icon": "https://farm5.staticflickr.com/4511/buddyicons/8594496@N06_r.jpg",
+		"id": "8594496@N06"
 	}
 ]
