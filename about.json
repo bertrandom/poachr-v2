@@ -157,7 +157,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/matthewalmonroth/",
-		"name": "Community guy",
+		"name": "Matthew",
 		"icon": "https://farm4.staticflickr.com/3681/buddyicons/98089007@N00_r.jpg",
 		"id": "98089007@N00"
 	},
@@ -168,12 +168,6 @@
 		"id": "49743098@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/jcaceres/",
-		"name": "Joel",
-		"icon": "https://farm6.staticflickr.com/5656/buddyicons/92382556@N00_r.jpg",
-		"id": "92382556@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/hc5duke/",
 		"name": "Soy Juan",
 		"icon": "https://farm4.staticflickr.com/3782/buddyicons/56533891@N00_l.jpg",
@@ -182,13 +176,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/flrent/",
 		"name": "Florent",
-		"icon": "https://farm9.staticflickr.com/8567/buddyicons/41857309@N04_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4562/buddyicons/41857309@N04_r.jpg",
 		"id": "41857309@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/seantaylorchapman/",
 		"name": "STC",
-		"icon": "https://farm5.staticflickr.com/4342/buddyicons/93613507@N06_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4548/buddyicons/93613507@N06_r.jpg",
 		"id": "93613507@N06"
 	},
 	{
@@ -232,12 +226,6 @@
 		"name": "Jordan \"The Bananas\"",
 		"icon": "https://farm8.staticflickr.com/7602/buddyicons/95937806@N05_r.jpg",
 		"id": "95937806@N05"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/zeejenkins/",
-		"name": "Zack",
-		"icon": "https://farm8.staticflickr.com/7412/buddyicons/143875385@N04_r.jpg",
-		"id": "143875385@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/jinlee8502/",
@@ -349,7 +337,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jaewoosong/",
 		"name": "Jaewoo",
-		"icon": "https://farm5.staticflickr.com/4511/buddyicons/8594496@N06_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4690/buddyicons/8594496@N06_r.jpg",
 		"id": "8594496@N06"
 	}
 ]
