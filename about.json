@@ -1,348 +1,325 @@
 [
 	{
 		"photostream": "https://www.flickr.com/photos/norby/",
-		"name": "Norby is 14",
+		"name": "Norby",
 		"icon": "https://farm3.staticflickr.com/2853/buddyicons/60065287@N00_r.jpg",
 		"id": "60065287@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/peterwelch/",
-		"name": "Swarm-cheater is 14",
+		"name": "Dead to us",
 		"icon": "https://farm4.staticflickr.com/3741/buddyicons/46623443@N00_r.jpg",
 		"id": "46623443@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/dokas/",
-		"name": "Phil is 14",
+		"name": "Phil",
 		"icon": "https://farm2.staticflickr.com/1574/buddyicons/36521981547@N01_l.jpg",
 		"id": "36521981547@N01"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/slp23/",
-		"name": "Sean is 14",
+		"name": "Sean",
 		"icon": "https://farm4.staticflickr.com/3101/buddyicons/46696356@N00.jpg",
 		"id": "46696356@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/kitkit201/",
-		"name": "Wilson is 14",
+		"name": "Wilson",
 		"icon": "https://farm8.staticflickr.com/7317/buddyicons/15721381@N00_r.jpg",
 		"id": "15721381@N00"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/saimad/",
-		"name": "Sai Mad is 14",
-		"icon": "https://farm8.staticflickr.com/7385/buddyicons/33384077@N00_r.jpg",
-		"id": "33384077@N00"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/20244787@N07/",
-		"name": "Dennis is 14",
+		"name": "Dennis",
 		"icon": "https://farm9.staticflickr.com/8463/buddyicons/20244787@N07.jpg",
 		"id": "20244787@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/bfirestone/",
-		"name": "Ben is 14",
+		"name": "Ben",
 		"icon": "https://farm4.staticflickr.com/3668/buddyicons/11797544@N05_r.jpg",
 		"id": "11797544@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/beckyburwell/",
-		"name": "Becky is 14",
+		"name": "Becky",
 		"icon": "https://farm9.staticflickr.com/8052/buddyicons/40734839@N04.jpg",
 		"id": "40734839@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/epytech/",
-		"name": "Gerard is 14",
+		"name": "Gerard",
 		"icon": "https://farm6.staticflickr.com/5037/buddyicons/78522870@N07_r.jpg",
 		"id": "78522870@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/richard_thorn/",
-		"name": "Richard is 14",
+		"name": "Richard",
 		"icon": "https://farm4.staticflickr.com/3834/buddyicons/93570740@N07_r.jpg",
 		"id": "93570740@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/archier/",
-		"name": "Archie is 14",
+		"name": "Archie",
 		"icon": "https://farm2.staticflickr.com/1460/buddyicons/13898829@N04_l.jpg",
 		"id": "13898829@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/alex-seville/",
-		"name": "Alex is 14",
+		"name": "Alex",
 		"icon": "https://farm5.staticflickr.com/4652/buddyicons/91720879@N02_r.jpg",
 		"id": "91720879@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/julietbutterfield/",
-		"name": "Founder is 14",
+		"name": "Founder",
 		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
 		"id": "63652802@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/sfncook/",
-		"name": "Angel Investor is 14",
+		"name": "Angel Investor",
 		"icon": "https://farm8.staticflickr.com/7303/buddyicons/99573471@N04_l.jpg",
 		"id": "99573471@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/knkteja/",
-		"name": "Teja is 14",
+		"name": "Teja",
 		"icon": "https://farm6.staticflickr.com/5114/buddyicons/16907380@N05_r.jpg",
 		"id": "16907380@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/pierregarrigues/",
-		"name": "Pierre is 14",
+		"name": "Pierre",
 		"icon": "https://farm8.staticflickr.com/7096/buddyicons/56081999@N07_r.jpg",
 		"id": "56081999@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/hexng888/",
-		"name": "Huy is 14",
+		"name": "Huy",
 		"icon": "https://farm6.staticflickr.com/5783/buddyicons/100887694@N02_r.jpg",
 		"id": "100887694@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "Andrew is 14",
+		"name": "Andrew",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/apricotjam/",
-		"name": "Jack is 14",
+		"name": "Jack",
 		"icon": "https://farm6.staticflickr.com/5332/buddyicons/100886156@N02_r.jpg",
 		"id": "100886156@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/tobiland/",
-		"name": "Tobias is 14",
+		"name": "Tobias",
 		"icon": "https://farm3.staticflickr.com/2901/buddyicons/96047353@N04_r.jpg",
 		"id": "96047353@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/superic/",
-		"name": "The Guardsman is 14",
+		"name": "The Guardsman",
 		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/metaphdor/",
-		"name": "Stacey is 14",
+		"name": "Stacey",
 		"icon": "https://farm4.staticflickr.com/3707/buddyicons/93935575@N07_r.jpg",
 		"id": "93935575@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/lalisom/",
-		"name": "Karthik is 14",
+		"name": "Karthik",
 		"icon": "https://farm2.staticflickr.com/1663/buddyicons/99018902@N02_r.jpg",
 		"id": "99018902@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/jeremyruppel/",
-		"name": "Ruppel is 14",
+		"name": "Ruppel",
 		"icon": "https://farm8.staticflickr.com/7244/buddyicons/28240581@N05_r.jpg",
 		"id": "28240581@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/stanwong221/",
-		"name": "Stan is 14",
+		"name": "Stan",
 		"icon": "https://farm1.staticflickr.com/745/buddyicons/135575480@N02_l.jpg",
 		"id": "135575480@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/matthewalmonroth/",
-		"name": "Matthew is 14",
+		"name": "Matthew",
 		"icon": "https://farm4.staticflickr.com/3681/buddyicons/98089007@N00_r.jpg",
 		"id": "98089007@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/ecls1/",
-		"name": "Ethan is 14",
+		"name": "Ethan",
 		"icon": "https://farm1.staticflickr.com/677/buddyicons/49743098@N00_l.jpg",
 		"id": "49743098@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/hc5duke/",
-		"name": "Soy Juan is 14",
+		"name": "Soy Juan",
 		"icon": "https://farm4.staticflickr.com/3782/buddyicons/56533891@N00_l.jpg",
 		"id": "56533891@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/flrent/",
-		"name": "Florent is 14",
+		"name": "Florent",
 		"icon": "https://farm5.staticflickr.com/4658/buddyicons/41857309@N04_r.jpg",
 		"id": "41857309@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/seantaylorchapman/",
-		"name": "STC is 14",
+		"name": "STC",
 		"icon": "https://farm5.staticflickr.com/4548/buddyicons/93613507@N06_r.jpg",
 		"id": "93613507@N06"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/leticiaroncero/",
-		"name": "Leticia is 14",
+		"name": "Leticia",
 		"icon": "https://farm9.staticflickr.com/8840/buddyicons/130405532@N06_r.jpg",
 		"id": "130405532@N06"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/dantasse/",
-		"name": "Dan is 14",
-		"icon": "https://farm1.staticflickr.com/360/buddyicons/32688114@N05_r.jpg",
-		"id": "32688114@N05"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/jpintado/",
-		"name": "Jorge is 14",
+		"name": "Jorge",
 		"icon": "https://farm3.staticflickr.com/2950/buddyicons/116310765@N06_r.jpg",
 		"id": "116310765@N06"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/lankro/",
-		"name": "Regular Chris is 14",
+		"name": "Regular Chris",
 		"icon": "https://farm1.staticflickr.com/386/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/mayssams/",
-		"name": "Maysamm is 14",
+		"name": "Maysamm",
 		"icon": "https://farm2.staticflickr.com/1489/buddyicons/141095954@N04_r.jpg",
 		"id": "141095954@N04"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/thisiskofi/",
-		"name": "Kofi is 14",
+		"name": "Kofi",
 		"icon": "https://farm2.staticflickr.com/1707/buddyicons/139934123@N05_r.jpg",
 		"id": "139934123@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/radjor/",
-		"name": "Jordan \"The Bananas\" is 14",
+		"name": "Jordan \"The Bananas\"",
 		"icon": "https://farm8.staticflickr.com/7602/buddyicons/95937806@N05_r.jpg",
 		"id": "95937806@N05"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/jinlee8502/",
-		"name": "Jin is 14",
-		"icon": "https://farm8.staticflickr.com/7655/buddyicons/137189240@N02_r.jpg",
-		"id": "137189240@N02"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/143984363@N08/",
-		"name": "Eddy is 14",
+		"name": "Eddy",
 		"icon": "https://farm9.staticflickr.com/8029/buddyicons/143984363@N08_r.jpg",
 		"id": "143984363@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/helencho/",
-		"name": "Helen is 14",
+		"name": "Helen",
 		"icon": "https://farm9.staticflickr.com/8076/buddyicons/145119326@N05_r.jpg",
 		"id": "145119326@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/145083312@N05/",
-		"name": "The Chemist is 14",
+		"name": "The Chemist",
 		"icon": "https://farm9.staticflickr.com/8220/buddyicons/145083312@N05_m.jpg",
 		"id": "145083312@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nihir/",
-		"name": "Fantomenal is 14",
+		"name": "Fantomenal",
 		"icon": "https://farm9.staticflickr.com/8490/buddyicons/131783420@N05_r.jpg",
 		"id": "131783420@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/115771784@N02/",
-		"name": "Gabe Loves Darts is 14",
+		"name": "Gabe Loves Darts",
 		"icon": "https://farm8.staticflickr.com/7627/buddyicons/115771784@N02_r.jpg",
 		"id": "115771784@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/pr0digie/",
-		"name": "Pixemus Prime is 14",
+		"name": "Pixemus Prime",
 		"icon": "https://farm3.staticflickr.com/2867/buddyicons/67316986@N00_l.jpg",
 		"id": "67316986@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/145857374@N02/",
-		"name": "Lannie is 14",
+		"name": "Lannie",
 		"icon": "https://farm1.staticflickr.com/423/buddyicons/145857374@N02_r.jpg",
 		"id": "145857374@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/98592705@N02/",
-		"name": "Mathan is 14",
+		"name": "Mathan",
 		"icon": "https://farm9.staticflickr.com/8657/buddyicons/98592705@N02_r.jpg",
 		"id": "98592705@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/142423916@N07/",
-		"name": "Monica is 14",
+		"name": "Monica",
 		"icon": "https://farm2.staticflickr.com/1633/buddyicons/142423916@N07_r.jpg",
 		"id": "142423916@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/153465125@N05/",
-		"name": "Gadget Dog is 14",
+		"name": "Gadget Dog",
 		"icon": "https://farm4.staticflickr.com/3857/buddyicons/153465125@N05_r.jpg",
 		"id": "153465125@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/154030445@N07/",
-		"name": "Surendar is 14",
+		"name": "Surendar",
 		"icon": "https://farm3.staticflickr.com/2818/buddyicons/154030445@N07_r.jpg",
 		"id": "154030445@N07"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/bwong_ynoc/",
-		"name": "Bryan is 14",
+		"name": "Bryan",
 		"icon": "https://farm5.staticflickr.com/4332/buddyicons/16193844@N02_r.jpg",
 		"id": "16193844@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/148368760@N02/",
-		"name": "Gabe is 14",
+		"name": "Gabe",
 		"icon": "https://farm5.staticflickr.com/4248/buddyicons/148368760@N02_r.jpg",
 		"id": "148368760@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/57286655@N00/",
-		"name": "Joanna is 14",
+		"name": "Joanna",
 		"icon": "https://farm3.staticflickr.com/2856/buddyicons/57286655@N00_r.jpg",
 		"id": "57286655@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/jtroxel/",
-		"name": "John is 14",
+		"name": "John",
 		"icon": "https://farm6.staticflickr.com/5612/buddyicons/19208979@N00_r.jpg",
 		"id": "19208979@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/pratikpatelcs/",
-		"name": "Pratik is 14",
+		"name": "Pratik",
 		"icon": "https://farm5.staticflickr.com/4232/buddyicons/133899195@N08_r.jpg",
 		"id": "133899195@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/153495633@N05/",
-		"name": "Khushboo is 14",
+		"name": "Khushboo",
 		"icon": "https://farm5.staticflickr.com/4472/buddyicons/153495633@N05_r.jpg",
 		"id": "153495633@N05"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos//",
-		"name": "Khushboo is 14",
-		"icon": "https://s.yimg.com/pw/images/buddyicon00_r.png"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/jaewoosong/",
-		"name": "Jaewoo is 14",
+		"name": "Jaewoo",
 		"icon": "https://farm5.staticflickr.com/4690/buddyicons/8594496@N06_r.jpg",
 		"id": "8594496@N06"
 	}
