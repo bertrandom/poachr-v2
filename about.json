@@ -264,7 +264,7 @@
 		"id": "98592705@N02"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/142423916@N07/",
+		"photostream": "https://www.flickr.com/photos/monica_1000/",
 		"name": "Monica",
 		"icon": "https://farm2.staticflickr.com/1633/buddyicons/142423916@N07_r.jpg",
 		"id": "142423916@N07"
@@ -326,7 +326,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/156095665@N03/",
 		"name": "Stormy",
-		"icon": "https://s.yimg.com/pw/images/buddyicon05_r.png#156095665@N03",
+		"icon": "https://farm5.staticflickr.com/4664/buddyicons/156095665@N03_r.jpg",
 		"id": "156095665@N03"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/162079697@N06/",
+		"name": "Rechee",
+		"icon": "https://farm1.staticflickr.com/794/buddyicons/162079697@N06_r.jpg",
+		"id": "162079697@N06"
 	}
 ]
