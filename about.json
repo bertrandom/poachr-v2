@@ -14,7 +14,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/dokas/",
 		"name": "Phil",
-		"icon": "https://farm2.staticflickr.com/1574/buddyicons/36521981547@N01_l.jpg",
+		"icon": "https://farm1.staticflickr.com/932/buddyicons/36521981547@N01_r.jpg",
 		"id": "36521981547@N01"
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/bfirestone/",
 		"name": "Ben",
-		"icon": "https://farm4.staticflickr.com/3668/buddyicons/11797544@N05_r.jpg",
+		"icon": "https://farm1.staticflickr.com/892/buddyicons/11797544@N05_r.jpg",
 		"id": "11797544@N05"
 	},
 	{
@@ -139,7 +139,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/jeremyruppel/",
-		"name": "Ruppel",
+		"name": "Amish Buddha",
 		"icon": "https://farm8.staticflickr.com/7244/buddyicons/28240581@N05_r.jpg",
 		"id": "28240581@N05"
 	},
@@ -172,12 +172,6 @@
 		"name": "Florent",
 		"icon": "https://farm5.staticflickr.com/4658/buddyicons/41857309@N04_r.jpg",
 		"id": "41857309@N04"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/seantaylorchapman/",
-		"name": "STC",
-		"icon": "https://farm5.staticflickr.com/4548/buddyicons/93613507@N06_r.jpg",
-		"id": "93613507@N06"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/leticiaroncero/",
@@ -308,11 +302,11 @@
 	{
 		"photostream": "https://www.flickr.com/photos/pratikpatelcs/",
 		"name": "Pratik",
-		"icon": "https://farm5.staticflickr.com/4232/buddyicons/133899195@N08_r.jpg",
+		"icon": "https://farm1.staticflickr.com/865/buddyicons/133899195@N08_r.jpg",
 		"id": "133899195@N08"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/153495633@N05/",
+		"photostream": "https://www.flickr.com/photos/khushboopurohit/",
 		"name": "Khushboo",
 		"icon": "https://farm5.staticflickr.com/4472/buddyicons/153495633@N05_r.jpg",
 		"id": "153495633@N05"
