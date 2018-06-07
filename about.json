@@ -49,7 +49,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "Andrew",
+		"name": "Big Banana",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
@@ -190,5 +190,17 @@
 		"name": "Stormy",
 		"icon": "https://farm5.staticflickr.com/4664/buddyicons/156095665@N03_r.jpg",
 		"id": "156095665@N03"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/benmacaskill/",
+		"name": "Ben",
+		"icon": "https://farm1.staticflickr.com/789/buddyicons/75227907@N00_r.jpg",
+		"id": "75227907@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/donmacaskill/",
+		"name": "Don",
+		"icon": "https://farm2.staticflickr.com/1755/buddyicons/44641156@N00_r.jpg",
+		"id": "44641156@N00"
 	}
 ]
