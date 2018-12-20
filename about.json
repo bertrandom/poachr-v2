@@ -43,13 +43,13 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/julietbutterfield/",
-		"name": "Founder",
+		"name": "Julie",
 		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
 		"id": "63652802@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "Big Banana",
+		"name": "�?�",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
@@ -92,7 +92,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/flrent/",
 		"name": "Florent",
-		"icon": "https://farm5.staticflickr.com/4658/buddyicons/41857309@N04_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4803/buddyicons/41857309@N04_r.jpg",
 		"id": "41857309@N04"
 	},
 	{
@@ -102,20 +102,14 @@
 		"id": "130405532@N06"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/jpintado/",
-		"name": "Jorge",
-		"icon": "https://farm3.staticflickr.com/2950/buddyicons/116310765@N06_r.jpg",
-		"id": "116310765@N06"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/lankro/",
 		"name": "Regular Chris",
-		"icon": "https://farm1.staticflickr.com/386/buddyicons/20567076@N08_r.jpg",
+		"icon": "https://farm2.staticflickr.com/1973/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/radjor/",
-		"name": "Jordan \"The Bananas\"",
+		"name": "Jordo Guy",
 		"icon": "https://farm8.staticflickr.com/7602/buddyicons/95937806@N05_r.jpg",
 		"id": "95937806@N05"
 	},
@@ -182,7 +176,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/pratikpatelcs/",
 		"name": "Pratik",
-		"icon": "https://farm1.staticflickr.com/865/buddyicons/133899195@N08_r.jpg",
+		"icon": "https://farm2.staticflickr.com/1885/buddyicons/133899195@N08_r.jpg",
 		"id": "133899195@N08"
 	},
 	{
@@ -220,5 +214,11 @@
 		"name": "Elliott",
 		"icon": "https://farm2.staticflickr.com/1764/buddyicons/11016037@N04_r.jpg",
 		"id": "11016037@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/alastairjolly/",
+		"name": "Alastair",
+		"icon": "https://farm2.staticflickr.com/1860/buddyicons/29432562@N06_r.jpg",
+		"id": "29432562@N06"
 	}
 ]
