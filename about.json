@@ -181,7 +181,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/156095665@N03/",
-		"name": "Stormy",
+		"name": "Semicolons",
 		"icon": "https://farm5.staticflickr.com/4664/buddyicons/156095665@N03_r.jpg",
 		"id": "156095665@N03"
 	},
@@ -212,7 +212,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/11016037@N04/",
 		"name": "Elliott",
-		"icon": "https://farm2.staticflickr.com/1764/buddyicons/11016037@N04_r.jpg",
+		"icon": "https://farm5.staticflickr.com/4841/buddyicons/11016037@N04_r.jpg",
 		"id": "11016037@N04"
 	},
 	{
@@ -220,5 +220,11 @@
 		"name": "Alastair",
 		"icon": "https://farm2.staticflickr.com/1860/buddyicons/29432562@N06_r.jpg",
 		"id": "29432562@N06"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/167843027@N08/",
+		"name": "Katherine",
+		"icon": "https://farm5.staticflickr.com/4915/buddyicons/167843027@N08_r.jpg",
+		"id": "167843027@N08"
 	}
 ]
