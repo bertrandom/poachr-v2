@@ -43,7 +43,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/julietbutterfield/",
-		"name": "Julie",
+		"name": "The 'Vendor'",
 		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
 		"id": "63652802@N02"
 	},
@@ -103,7 +103,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/lankro/",
-		"name": "Regular Chris",
+		"name": "Parry",
 		"icon": "https://farm2.staticflickr.com/1973/buddyicons/20567076@N08_r.jpg",
 		"id": "20567076@N08"
 	},
@@ -118,12 +118,6 @@
 		"name": "Eddy",
 		"icon": "https://farm9.staticflickr.com/8029/buddyicons/143984363@N08_r.jpg",
 		"id": "143984363@N08"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/helencho/",
-		"name": "Helen",
-		"icon": "https://farm9.staticflickr.com/8076/buddyicons/145119326@N05_r.jpg",
-		"id": "145119326@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/145083312@N05/",
@@ -248,7 +242,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/164377293@N06/",
 		"name": "Katie",
-		"icon": "https://farm8.staticflickr.com/7859/buddyicons/164377293@N06_r.jpg",
+		"icon": "https://farm8.staticflickr.com/7825/buddyicons/164377293@N06_r.jpg",
 		"id": "164377293@N06"
 	},
 	{
@@ -313,8 +307,8 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nalod/",
-		"name": "Joe",
-		"icon": "https://farm1.staticflickr.com/5/buddyicons/76817054@N00.jpg",
+		"name": "Noodles",
+		"icon": "https://farm8.staticflickr.com/7881/buddyicons/76817054@N00_r.jpg",
 		"id": "76817054@N00"
 	},
 	{
