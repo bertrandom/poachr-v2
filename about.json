@@ -49,13 +49,13 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "�?�",
+		"name": "gravy train",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/superic/",
-		"name": "The Once-ler",
+		"name": "Keeper of the Casket of Ancien",
 		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
 	},
@@ -288,16 +288,16 @@
 		"id": "170775398@N08"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/124713636@N03/",
-		"name": "Harshi",
-		"icon": "https://farm8.staticflickr.com/7920/buddyicons/124713636@N03_r.jpg",
-		"id": "124713636@N03"
-	},
-	{
 		"photostream": "https://www.flickr.com/photos/cjmartin/",
 		"name": "Chris",
 		"icon": "https://farm5.staticflickr.com/4566/buddyicons/42982698@N00_r.jpg",
 		"id": "42982698@N00"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/124713636@N03/",
+		"name": "Harshi",
+		"icon": "https://farm8.staticflickr.com/7920/buddyicons/124713636@N03_r.jpg",
+		"id": "124713636@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nbadal/",
