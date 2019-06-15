@@ -20,7 +20,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/20244787@N07/",
 		"name": "Dennis",
-		"icon": "https://farm9.staticflickr.com/8463/buddyicons/20244787@N07.jpg",
+		"icon": "https://farm9.staticflickr.com/8463/buddyicons/20244787@N07_r.jpg",
 		"id": "20244787@N07"
 	},
 	{
@@ -44,12 +44,12 @@
 	{
 		"photostream": "https://www.flickr.com/photos/julietbutterfield/",
 		"name": "The 'Vendor'",
-		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_l.jpg",
+		"icon": "https://farm8.staticflickr.com/7386/buddyicons/63652802@N02_r.jpg",
 		"id": "63652802@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "gravy train",
+		"name": "Lisa's �?�",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
@@ -68,7 +68,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/stanwong221/",
 		"name": "Stanimal",
-		"icon": "https://farm8.staticflickr.com/7927/buddyicons/135575480@N02_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/135575480@N02_r.jpg",
 		"id": "135575480@N02"
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"photostream": "https://www.flickr.com/photos/ecls1/",
 		"name": "Ethan",
-		"icon": "https://farm1.staticflickr.com/677/buddyicons/49743098@N00_l.jpg",
+		"icon": "https://farm1.staticflickr.com/677/buddyicons/49743098@N00_r.jpg",
 		"id": "49743098@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/hc5duke/",
 		"name": "Soy Juan",
-		"icon": "https://farm4.staticflickr.com/3782/buddyicons/56533891@N00_l.jpg",
+		"icon": "https://farm4.staticflickr.com/3782/buddyicons/56533891@N00_r.jpg",
 		"id": "56533891@N00"
 	},
 	{
@@ -122,12 +122,12 @@
 	{
 		"photostream": "https://www.flickr.com/photos/145083312@N05/",
 		"name": "The Chemist",
-		"icon": "https://farm9.staticflickr.com/8220/buddyicons/145083312@N05_m.jpg",
+		"icon": "https://farm9.staticflickr.com/8220/buddyicons/145083312@N05_r.jpg",
 		"id": "145083312@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nihir/",
-		"name": "Fantomenal",
+		"name": "Enginihir",
 		"icon": "https://farm9.staticflickr.com/8490/buddyicons/131783420@N05_r.jpg",
 		"id": "131783420@N05"
 	},
@@ -140,7 +140,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/pr0digie/",
 		"name": "Pixemus Prime",
-		"icon": "https://farm3.staticflickr.com/2867/buddyicons/67316986@N00_l.jpg",
+		"icon": "https://farm3.staticflickr.com/2867/buddyicons/67316986@N00_r.jpg",
 		"id": "67316986@N00"
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/11016037@N04/",
 		"name": "Elliott",
-		"icon": "https://farm5.staticflickr.com/4841/buddyicons/11016037@N04_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/11016037@N04_r.jpg",
 		"id": "11016037@N04"
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/169373314@N07/",
 		"name": "Allen",
-		"icon": "https://farm8.staticflickr.com/7919/buddyicons/169373314@N07_l.jpg",
+		"icon": "https://farm8.staticflickr.com/7919/buddyicons/169373314@N07_r.jpg",
 		"id": "169373314@N07"
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/170775398@N08/",
 		"name": "Ryan",
-		"icon": "https://farm8.staticflickr.com/7916/buddyicons/170775398@N08_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/170775398@N08_r.jpg",
 		"id": "170775398@N08"
 	},
 	{
@@ -292,12 +292,6 @@
 		"name": "Harshi",
 		"icon": "https://farm8.staticflickr.com/7920/buddyicons/124713636@N03_r.jpg",
 		"id": "124713636@N03"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/cjmartin/",
-		"name": "Chris",
-		"icon": "https://farm5.staticflickr.com/4566/buddyicons/42982698@N00_r.jpg",
-		"id": "42982698@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nbadal/",
@@ -308,7 +302,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/nalod/",
 		"name": "Joe",
-		"icon": "https://farm8.staticflickr.com/7881/buddyicons/76817054@N00_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/76817054@N00_r.jpg",
 		"id": "76817054@N00"
 	},
 	{
