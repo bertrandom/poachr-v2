@@ -236,7 +236,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/169316218@N03/",
 		"name": "Cora",
-		"icon": "https://farm8.staticflickr.com/7824/buddyicons/169316218@N03_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/169316218@N03_r.jpg",
 		"id": "169316218@N03"
 	},
 	{
@@ -400,5 +400,17 @@
 		"name": "Casey",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/41894176272@N01_r.jpg",
 		"id": "41894176272@N01"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/183396785@N04/",
+		"name": "Melanie",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/183396785@N04_r.jpg",
+		"id": "183396785@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/aidajones/",
+		"name": "Aida",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/91253861@N02_r.jpg",
+		"id": "91253861@N02"
 	}
 ]
