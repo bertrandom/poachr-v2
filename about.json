@@ -55,7 +55,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/superic/",
-		"name": "Keeper of the Casket of Ancien",
+		"name": "Keeper of the Casket",
 		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
 	},
@@ -218,7 +218,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/165308613@N06/",
 		"name": "Rafi",
-		"icon": "https://farm8.staticflickr.com/7817/buddyicons/165308613@N06_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/165308613@N06_r.jpg",
 		"id": "165308613@N06"
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jessdphotos/",
 		"name": "Jessica",
-		"icon": "https://farm8.staticflickr.com/7865/buddyicons/168884764@N05_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/168884764@N05_r.jpg",
 		"id": "168884764@N05"
 	},
 	{
@@ -336,7 +336,7 @@
 		"id": "182245526@N04"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/182306806@N08/",
+		"photostream": "https://www.flickr.com/photos/balakaye/",
 		"name": "Blake",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/182306806@N08_r.jpg",
 		"id": "182306806@N08"
@@ -360,7 +360,7 @@
 		"id": "181684698@N07"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/181619067@N04/",
+		"photostream": "https://www.flickr.com/photos/genreifer/",
 		"name": "Genevieve",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/181619067@N04_r.jpg",
 		"id": "181619067@N04"
@@ -394,6 +394,12 @@
 		"name": "Sowmya",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/182465189@N08_r.jpg",
 		"id": "182465189@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/cristinachu/",
+		"name": "Cristina",
+		"icon": "https://farm1.staticflickr.com/507/buddyicons/98458412@N03_r.jpg",
+		"id": "98458412@N03"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/maisonbisson/",
