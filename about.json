@@ -56,7 +56,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/superic/",
 		"name": "Keeper of the Casket",
-		"icon": "https://farm8.staticflickr.com/7441/buddyicons/66422871@N00_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/66422871@N00_r.jpg",
 		"id": "66422871@N00"
 	},
 	{
@@ -426,6 +426,12 @@
 		"id": "91253861@N02"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/160500471@N04/",
+		"name": "Robert",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/160500471@N04_r.jpg",
+		"id": "160500471@N04"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/184385160@N02/",
 		"name": "Anneli",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/184385160@N02_r.jpg",
@@ -482,7 +488,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/jklagenberg/",
 		"name": "The Data Plumber",
-		"icon": "https://farm5.staticflickr.com/4887/buddyicons/56016528@N07_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/56016528@N07_r.jpg",
 		"id": "56016528@N07"
 	},
 	{
@@ -494,7 +500,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/leftquark/",
 		"name": "Aaron",
-		"icon": "https://farm8.staticflickr.com/7408/buddyicons/72199305@N00_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/72199305@N00_r.jpg",
 		"id": "72199305@N00"
 	},
 	{
