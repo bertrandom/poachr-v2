@@ -49,7 +49,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "Lisa's 🍌",
+		"name": "Lisa's �?�",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
@@ -408,6 +408,12 @@
 		"id": "98458412@N03"
 	},
 	{
+		"photostream": "https://www.flickr.com/photos/157520735@N06/",
+		"name": "Geoff",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/157520735@N06_r.jpg",
+		"id": "157520735@N06"
+	},
+	{
 		"photostream": "https://www.flickr.com/photos/maisonbisson/",
 		"name": "Casey",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/41894176272@N01_r.jpg",
@@ -469,13 +475,13 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/30382568@N02/",
-		"name": "Barb Gates",
+		"name": "Barb",
 		"icon": "https://farm2.staticflickr.com/1826/buddyicons/30382568@N02_r.jpg",
 		"id": "30382568@N02"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/andrewtower/",
-		"name": "Andrew Tower",
+		"name": "Andrew",
 		"icon": "https://farm5.staticflickr.com/4774/buddyicons/139129645@N02_r.jpg",
 		"id": "139129645@N02"
 	},
@@ -493,7 +499,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/148669409@N03/",
-		"name": "Scott Kinzie",
+		"name": "Scott",
 		"icon": "https://farm8.staticflickr.com/7886/buddyicons/148669409@N03_r.jpg",
 		"id": "148669409@N03"
 	},
@@ -505,7 +511,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/beryllium/",
-		"name": "Kevin ⛵️ Boyd",
+		"name": "Kevin ⛵�?",
 		"icon": "https://farm6.staticflickr.com/5580/buddyicons/43517822@N00_r.jpg",
 		"id": "43517822@N00"
 	},
