@@ -224,7 +224,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/169346904@N05/",
 		"name": "Dominique",
-		"icon": "https://farm8.staticflickr.com/7827/buddyicons/169346904@N05_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/169346904@N05_r.jpg",
 		"id": "169346904@N05"
 	},
 	{
@@ -502,12 +502,6 @@
 		"name": "Scott",
 		"icon": "https://farm8.staticflickr.com/7886/buddyicons/148669409@N03_r.jpg",
 		"id": "148669409@N03"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/leftquark/",
-		"name": "Aaron",
-		"icon": "https://farm66.staticflickr.com/65535/buddyicons/72199305@N00_r.jpg",
-		"id": "72199305@N00"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/beryllium/",
