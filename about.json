@@ -49,7 +49,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/adstads/",
-		"name": "Lisa's �?�",
+		"name": "Thought Leader",
 		"icon": "https://farm4.staticflickr.com/3718/buddyicons/26794697@N03_r.jpg",
 		"id": "26794697@N03"
 	},
@@ -112,12 +112,6 @@
 		"name": "Eddy",
 		"icon": "https://farm9.staticflickr.com/8029/buddyicons/143984363@N08_r.jpg",
 		"id": "143984363@N08"
-	},
-	{
-		"photostream": "https://www.flickr.com/photos/145083312@N05/",
-		"name": "The Chemist",
-		"icon": "https://farm9.staticflickr.com/8220/buddyicons/145083312@N05_r.jpg",
-		"id": "145083312@N05"
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/nihir/",
@@ -314,7 +308,7 @@
 	{
 		"photostream": "https://www.flickr.com/photos/shandrew/",
 		"name": "Shandrew",
-		"icon": "https://farm1.staticflickr.com/24/buddyicons/26474943@N00_r.jpg",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/26474943@N00_r.jpg",
 		"id": "26474943@N00"
 	},
 	{
@@ -366,7 +360,7 @@
 		"id": "181684698@N07"
 	},
 	{
-		"photostream": "https://www.flickr.com/photos/genreifer/",
+		"photostream": "https://www.flickr.com/photos/gen_r/",
 		"name": "Genevieve",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/181619067@N04_r.jpg",
 		"id": "181619067@N04"
@@ -499,7 +493,7 @@
 	},
 	{
 		"photostream": "https://www.flickr.com/photos/beryllium/",
-		"name": "Kevin ⛵�?",
+		"name": "Kevin ⛵️",
 		"icon": "https://farm6.staticflickr.com/5580/buddyicons/43517822@N00_r.jpg",
 		"id": "43517822@N00"
 	},
