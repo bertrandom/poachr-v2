@@ -1,0 +1,24 @@
+{
+  "name": "poachr-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node parse"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertrandom/poachr-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertrandom/poachr-v2/issues"
+  },
+  "homepage": "https://github.com/bertrandom/poachr-v2#readme"
+}
