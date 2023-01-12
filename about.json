@@ -430,5 +430,17 @@
 		"name": "Nina",
 		"icon": "https://farm66.staticflickr.com/65535/buddyicons/194001631@N04_r.jpg",
 		"id": "194001631@N04"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/radicalredphotos/",
+		"name": "Rhett",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/197468960@N08_r.jpg",
+		"id": "197468960@N08"
+	},
+	{
+		"photostream": "https://www.flickr.com/photos/197461099@N08/",
+		"name": "Amanda",
+		"icon": "https://farm66.staticflickr.com/65535/buddyicons/197461099@N08_r.jpg",
+		"id": "197461099@N08"
 	}
 ]
