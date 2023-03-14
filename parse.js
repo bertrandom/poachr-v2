@@ -21,7 +21,14 @@ var rows = $('#about-main table tr td').each(function (i, el) {
 
     var nsid = null;
     matches = icon.match(/buddyicons\/([0-9]+@N[0-9]+)_/);
-    nsid = matches[1];
+
+    if (matches && matches[1]) {
+        nsid = matches[1];
+    } else if (photostream == 'elizabethmaryphotography') {
+        nsid = '163569210@N02';
+    } else {
+        return;
+    } 
 
     var person = {
         "photostream": "https://www.flickr.com" + photostream,
